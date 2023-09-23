@@ -1,0 +1,9 @@
+# todo-wait:
+apikeys.py
+.idea
+.vscode
+__pycache__
+*.pick
+*.csv
+*.log
+*.out
