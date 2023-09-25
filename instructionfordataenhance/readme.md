@@ -21,6 +21,18 @@
   这个数据不用再看了，因为它已经被第一批的训练整理完毕了
 - 未来再有新的人工标注的数据，做好数据格式的修正以及ly的格式转换；
 
+~~~
+旧版本的训练数据与新的训练数据的融合，之后再展开训练过程;
+均融合进入：all_train_human_enhancedata_all.jsonl中；
+所有训练过程，均以all_train_human_enhancedata_all.jsonl数据为训练数据；
+~~~
+
+###### 最新数据截至：0925
+
+- LY数据（LY项目中已最新）[all_train_human_enhancedata_all.jsonl](all_train_human_enhancedata_all.jsonl)
+- BELLE-dev（BL项目中已最新）[all_train_human_enhancedata_all_belle.dev.json](all_train_human_enhancedata_all_belle.dev.json)
+- BELLE-train（BL项目中已最新）[all_train_human_enhancedata_all_belle.json](all_train_human_enhancedata_all_belle.json)
+
 ###### 人工数据和enhance数据的融合以供ly训练
 
 - 截至0923： 人工 + enhance 得到的标准 ly 数据存储在 [all_train_human_enhancedata_0923.jsonl](all_train_human_enhancedata_0923.jsonl)
@@ -28,10 +40,6 @@
 
 ###### 所有训练数据的融合
 
-~~~
-旧版本的训练数据与新的训练数据的融合，之后再展开训练过程;
-均融合进入：all_train_human_enhancedata_all.jsonl中；
-所有训练过程，均以all_train_human_enhancedata_all.jsonl数据为训练数据；
-~~~
+
 
 

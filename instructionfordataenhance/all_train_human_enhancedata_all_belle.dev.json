@@ -1,0 +1,6166 @@
+[
+    {
+        "id": "giikin_1001536_D4xtlb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我还没有收到司机的联络，请帮我查询一下发货物流信息。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:非常抱歉给您带来了不便。请问您的姓名和电话号码，我将为您查询发货物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "我是王小明，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我已收到您的电话号码。请稍等片刻，我将为您查询发货物流信息。{'phone':'0912345678','name':'王小明'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000344_fiJWeA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问商品发货需要多久？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}您好，通常发货时间为1-2个工作日，具体到达时间还需要考虑物流运输情况，请您耐心等待。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，如果还有其他问题，请随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001551_l6JwrL",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想问一下拇指外翻矫正带的价格和购买方式。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'拇指外翻矫正带'}:是的，我们有拇指外翻矫正带。请提供您的姓名、电话、收件地址以及您需要的数量，我可以帮您下订单，并优先发货派送。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001563_PfxaCQE",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问一下，我在台湾订购的商品发货后大概需要多久才能送达？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'goods':'商品','intent':'发货时间'}:我们的商品是从台湾发货的，一般订购后4-7天左右可以送达。请您耐心等待，如有特殊情况我们会及时通知您的。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000307_ENgcte",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我购买的商品有问题，需要退货和退款。请帮我处理，谢谢。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'退货退款'}:请问您的姓名和电话号码，我们这边帮您查询。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000228_HtzWIA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单何时能发货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名和电话号码，我将帮您查询订单发货情况。"
+            },
+            {
+                "from": "human",
+                "value": "我叫王小明，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我会尽快查询您的订单发货情况并告知您。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000141_Z6yxGa",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我买的货已经收到了，但是没有附带说明书。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'使用方式'}:您好，非常抱歉没有附带说明书。关于商品的使用方式，我们提供了商品链接中的示范视频，您可以参考一下。请点击链接查看：[商品链接](https://example.com)"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000254_mTsIxA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "已经2周了，我还没收到退货的退款，请问可以查询一下吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请问您的姓名和电话号码，我将为您查询退货物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "李华，电话是0978123456"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我将为您查询退货物流，请稍等片刻。{'name':'李华','phone':'0978123456'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003615_EekSy5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，请问您有什么问题需要咨询呢？"
+            },
+            {
+                "from": "human",
+                "value": "哪里买得到"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:麻烦发送一下您想订购的商品图片或者网页链接喔"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001566_5yI860B",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问发货需要多久时间？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，一般订购后的4-7个工作日左右可以送达。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000213_j720Yh",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好有人吗"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，很高兴为您服务，请问有什么可以帮到您的呢？"
+            },
+            {
+                "from": "human",
+                "value": "我想修改一下我的收货地址。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'修改订单'}可以的哦，请您告诉我您的姓名和电话信息，同时告知我新的收货地址喔。"
+            },
+            {
+                "from": "human",
+                "value": "我叫王小明，电话号码是0937123456，我想改成台北市信义区松山路100号。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话与姓名信息。已经帮您申请修改喔，会尽快为您安排发出的喔{'phone':'0937123456','name':'王小明','newaddr_area':'台北市','newaddr_street':'信义区松山路100号'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000383_8clSuA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "2/18我给你打电话了，但是结果迟迟没来收退货"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:不是的喔，已经帮您登记催促了，很快就会为您上门取件的喔。"
+            },
+            {
+                "from": "human",
+                "value": "850-230（扣运费）=620元"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:嗯嗯，非常抱歉，我这边帮您催促加急，会尽快为您解决此事，请您耐心等待喔"
+            },
+            {
+                "from": "human",
+                "value": "那是搭铁牛车来收货吗"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:不是的哦"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000399_kvNhB7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的换货什么时候能到？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:为了帮您查询，请提供您的姓名和电话号码。"
+            },
+            {
+                "from": "human",
+                "value": "我是黄定邦，电话号码是0931172989。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:好的，我已经记录下您的信息。请稍等片刻，我会帮您查询物流信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000357_tvFGxD",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想了解一下退换货的流程"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'人工客服'}:您好，退换货的流程如下：1. 您可以在收到商品后的7天内申请退换货；2. 请您先联系客服并提供订单编号和联系电话，我们会为您处理；3. 商品需要保持原样，包括商品本身、包装和附件；4. 客服会指导您退回商品并提供退款或换货服务。请问还有其他问题需要帮助吗？"
+            },
+            {
+                "from": "human",
+                "value": "我想修改订单的收货地址"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'人工客服'}:好的，请您提供订单编号和联系电话，我会为您处理修改收货地址的请求。"
+            },
+            {
+                "from": "human",
+                "value": "我的订单编号是B202108230001，联系电话是0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'人工客服'}:好的，我已经记录下来了。请您稍等片刻，我会尽快为您处理修改收货地址的请求。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'人工客服'}:不客气，如果还有其他问题，随时告诉我。祝您购物愉快！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000226_cFx0Pv",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问一般订购完成后需要多长时间才能收到商品？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，一般订购完成后4-7个工作日左右可以收到商品喔。"
+            },
+            {
+                "from": "human",
+                "value": "那如果我希望在晚上10点半过后收到，可以吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:快递员在派送前会提前电话联络您的，您也可以和快递员在电话中约定到达时间和收件地点的喔。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000227_aMbySA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问你们的派送时间是多久？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:我们会在派送前联系您的，具体到达时间会受物流运输速度影响，无法准确保证，我们会催促物流尽快送达。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢！"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，很高兴为您服务！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000121_OAmq0Q",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下退货物流信息。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请问您的姓名和电话号码？"
+            },
+            {
+                "from": "human",
+                "value": "我的姓名是张三，电话是0987654321。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供信息，请稍等，我为您查询退货物流信息。{'name':'张三','phone':'0987654321'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000270_U1AeQY",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问一下我有定手表有寄出吗"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流','goods':'手表'}:请问您的姓名电话我们这边帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我是王小明，电话是0987654321"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。{'phone':'0987654321','name':'王小明'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000145_vF1dGA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单什么时候能送到？已经等了好久了。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来不便，我会帮您催促物流进度。请您再稍等片刻，我们会尽快处理。"
+            },
+            {
+                "from": "human",
+                "value": "你们已经拖延了好几个礼拜了，为什么还没处理？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您造成困扰，我已经再次催促处理了。请您再耐心等待一下，我们会尽快处理完毕。"
+            },
+            {
+                "from": "human",
+                "value": "我已经等了三个月了，为什么还没有结果？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来困扰，我已经再次催促处理了。请您再耐心等待一下，我们会尽快给您一个满意的答复。"
+            },
+            {
+                "from": "human",
+                "value": "你们一直说尽快处理，但已经三个月了，这还算是尽快处理吗？让人觉得是在拖延，说谎。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您造成的困扰，我已经再次催促处理了。我们真诚地向您道歉，并会加快处理速度，以尽快解决问题。"
+            },
+            {
+                "from": "human",
+                "value": "我订的东西还没送到，而且送来的商品有问题，你们就不理了。我会向消费者保护协会投诉的。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来不便，我们会帮您催促处理，并解决商品问题。请您再耐心等待一下，我们会尽快给您一个满意的答复。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000077_y2Idsj",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问我可以查询一下退货物流吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "当然可以，请告诉我您的姓名和电话号码，我将帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我叫王小明，电话号码是0955123456。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我已经收到您的信息。我将为您查询，请稍等片刻。{'phone':'0955123456'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000254_mTsIxe",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问货物到达后，他会提前跟我联系吗？我担心不在家的时候他来了取不到货。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:是的，他们会提前与您联系，以确保您能够及时收到货物。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000213_j720Yh",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问我可以修改订单吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，当然可以修改订单。请您告诉我您的姓名和电话信息，同时告知我新的收货地址喔。"
+            },
+            {
+                "from": "human",
+                "value": "我是刘小明，电话号码是0912345678，我想把收货地址改成台北市中山区中山北路123号。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话与姓名信息。已经帮您申请修改喔，会尽快为您安排发出的喔{'phone':'0912345678','name':'刘小明','newaddr_area':'台北市','newaddr_street':'中山区中山北路123号'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000243_oRqJZU",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想买一些新款的运动鞋，你们有吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'运动鞋','style':'新款'}:您好，非常抱歉之前的问题，我可以帮您查询一下库存，请问您下单时填写的电话是多少呢？"
+            },
+            {
+                "from": "human",
+                "value": "0987654321"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。请稍后。{'phone':'0987654321'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000390_r5H46B",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我在8月10号购买了一瓶何首乌洗发水，想知道什么时候可以收到？"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您能提供一下订单编号吗？我可以帮您查询一下派送状态。"
+            },
+            {
+                "from": "human",
+                "value": "订单编号是2021081001234567。"
+            },
+            {
+                "from": "assistant",
+                "value": "非常抱歉，由于系统升级，暂时无法查询订单状态。但通常情况下，我们会在下单后1-3个工作日内为您安排发货，您可以耐心等待，一般情况下，收货时间为下单后5-7个工作日。如有任何问题，请随时告诉我。"
+            },
+            {
+                "from": "human",
+                "value": "好的，我会耐心等待的。如果有其他问题，我再来咨询您。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，感谢您的理解和支持。如果有任何需要，随时联系我。祝您有个愉快的购物体验！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000122_8uGw2B",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我收货的时候需要注意什么吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:收货时请您核对商品完好无损，如有任何问题请及时与我们联系。此外，如果您选择快递配送，快递员在派送前会提前电话联络您的，您也可以和快递员在电话中约定到达时间和收件地点的喔。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000380_aWyRYA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，有什么我可以帮您的呢？"
+            },
+            {
+                "from": "human",
+                "value": "我想查询一下我的退货物流"
+            },
+            {
+                "from": "assistant",
+                "value": "非常抱歉给您带来不便。请您告诉我您的姓名和电话号码，我将为您查询退货物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "林美娜0987123456"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您提供的信息。我将为您查询，请稍等片刻。{'name':'林美娜','phone':'0987123456'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001563_PfxaCQI",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问这款颈椎枕的尺寸是多少？还有其他款型吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'颈椎枕','style':'艾草'}:这款颈椎枕的尺寸是标准尺寸，适合大部分用户使用。目前只有这个款型，没有其他款型。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000403_Gjq0hm",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问这个是跟你们买的对吗"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:是的喔，您方便把图片或者链接发送给我喔，我帮您确认。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003726_28iFjw",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您有什么问题"
+            },
+            {
+                "from": "human",
+                "value": "你好，我想查询一下你们有没有这款魔鬼毡束缚脚的休闲鞋"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'休闲鞋','style':['魔鬼毡','束脚']}:麻烦发送一下您想订购的商品图片或者网页链接喔"
+            },
+            {
+                "from": "human",
+                "value": "请问一次买两双货送台南市有免运费吗"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'询问运费','city': '台南市'}不需要运费的。"
+            },
+            {
+                "from": "human",
+                "value": "好的，我会量一下脚，考虑一下，谢谢！"
+            },
+            {
+                "from": "assistant",
+                "value": "好的喔，如果您需要可以告诉我们您的姓名、电话和收货地址，我可以帮您下单。"
+            },
+            {
+                "from": "human",
+                "value": "好的！"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气的"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000349_t1q2p9",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问你们有没有XX品牌的电视机？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:您好，我们的商品种类丰富，包括各大品牌的电视机。请问您需要查询的是哪个型号的电视机？"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000250_h5msMB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "出货的时候会通知吗"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}会有通知喔"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000383_8clSuB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我已经等了很久了，还没收到退货。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来不便，我会尽快催促处理您的退货请求。请您再等一下，谢谢您的耐心。"
+            },
+            {
+                "from": "human",
+                "value": "这已经是第N次了，我不想再等了。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来困扰。我会立即处理并尽快给您答复，请您再稍等片刻。"
+            },
+            {
+                "from": "human",
+                "value": "这次一定要解决问题，我不想再等了。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:我非常理解您的不满和焦虑。我将立即加速处理您的退货事宜，尽快给您一个满意的答复。再次为给您带来困扰道歉。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000295_4VBbwE",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我最近在学习茶道，想请问一下如何泡一杯好喝的茶？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:泡一杯好喝的茶需要注意以下几点：首先，选择优质的茶叶，可以根据个人口味选择喜欢的种类；其次，准备好清洁的茶具和干净的水；然后，控制好水温和冲泡时间，不同种类的茶叶有不同的适宜水温和冲泡时间，可以根据茶叶包装上的说明进行操作；最后，享受品茶的过程，细细品味茶的香气和口感。希望这些小技巧对您有帮助！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000080_mXZ1BU",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我买的商品什么时候能送到？"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您的姓名和电话号码，我将帮您查询订单物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "我是王盈乔，电话号码是0900625087。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我已收到您的信息。我将为您查询，请稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000148_b68J3p",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单什么时候能发货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉，订单发货可能因为一些特殊情况导致延迟。请您提供一下订单编号，我将帮您查询最新的发货情况。"
+            },
+            {
+                "from": "human",
+                "value": "我的订单编号是123456789"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉，我已经收到您的订单编号123456789。我会尽快为您催促发货，请您耐心等待，谢谢！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000195_E2OnYm",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "到底还要多久才能退货退款？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:我们已经在催促物流了，会尽快为您完成取货的。"
+            },
+            {
+                "from": "human",
+                "value": "没有时间表吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:这个取决于实际的物流喔，我们已经帮您催促了。"
+            },
+            {
+                "from": "human",
+                "value": "这样痴痴的等有用吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:最近就会为您完成上门取件喔，请您再等待一下。"
+            },
+            {
+                "from": "human",
+                "value": "贵公司真的有诚意退货吗？我已经搜集好资料要采取行动了!"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:我们确实已经帮您催促了，请您再等待一下物流公司的进度。"
+            },
+            {
+                "from": "human",
+                "value": "遇到你们这种商家不是第一次了!要避免更多人受害!"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:我们真的已经在帮您处理了。"
+            },
+            {
+                "from": "human",
+                "value": "没有信誉的商家不应该在市场上立足存在!网络上说你们是诈骗购物商城！没错吧！不要再骗下去了"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:不是的喔，我们的商品都来自正规的生产企业喔"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000204_tKYGNZ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想查询一下我的订单发货情况"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您的惠顾，请您提供您的姓名和电话号码，我将为您查询订单发货情况。"
+            },
+            {
+                "from": "human",
+                "value": "我叫张三，电话是0987654321"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我将为您查询，请稍等片刻。{'phone':'0987654321','name':'张三'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003733_ks50uw",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您有什么问题"
+            },
+            {
+                "from": "human",
+                "value": "我刚刚购买的商品有误，需要修改订单"
+            },
+            {
+                "from": "assistant",
+                "value": "请告诉我您需要修改的订单信息，包括商品名称、数量和联系电话"
+            },
+            {
+                "from": "human",
+                "value": "我购买的是一套USB防蚊灯，数量是2+2，我的联系电话是0920123456"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我已经记录下来了。请您稍等片刻，我会为您查询并处理修改订单的请求。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000349_rsw48B",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问下单后多久可以收到商品？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，一般下单后4-7个工作日左右可以收到商品。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000410_3ozcHl",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你们平台有提供折扣活动吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'询问折扣'}:是的，我们平台目前有一些折扣活动正在进行中。您可以在特定商品页面或者活动页面查看具体的折扣信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000278_WblSHc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想请问一下，为什么没有看到我的订单？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'订单信息'}:您好,请问您下单时填写的电话是多少呢？先帮您查询订单喔"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000383_8clSuB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的退货何时可以处理？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:您好，具体的处理时间是根据退货流程和物流的情况而定的。我们会尽快为您处理退货并安排退款事宜。请您提供一下订单编号和您的联系电话，以便我们更好地跟进您的退货进度。"
+            },
+            {
+                "from": "human",
+                "value": "我的订单编号是20210501，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，非常感谢您提供的信息。我会立即为您查询退货进度并尽快与您联系。请您耐心等待片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000256_0rTLgO",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我等了好久都没收到我的包裹，真的很耐不住了。如果再过一周还没送到，我要采取一些措施了，会寄存证信函并报警告诈欺。希望你们能尽快处理，否则一切费用都要由你们来补偿。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉，我们会再次催促物流。请您耐心等待，我们会尽快解决这个问题。"
+            },
+            {
+                "from": "human",
+                "value": "{'intent':'催促安抚'}:已经过了一个星期了，你们还没来收取我要退的鞋子吗？希望你们能设身处地为消费者着想，尽快来取回。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉，我们已经在加快处理了。请您再稍等一段时间。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000135_uZBATo",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下我的包裹的物流情况"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名和电话号码，我将为您查询。"
+            },
+            {
+                "from": "human",
+                "value": "王小明，电话是0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您提供的信息，我将为您查询，请稍等片刻。{'name':'王小明','phone':'0912345678'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000383_8clSuC",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的退货怎么还没处理？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉，我们会尽快处理您的退货。请问您的订单编号是多少？"
+            },
+            {
+                "from": "human",
+                "value": "我的订单编号是1234567890"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:好的，我已经记录下您的订单编号。我们会联系物流公司尽快处理您的退货事宜。非常抱歉给您带来不便。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000402_dv3SGY",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下我的包裹什么时候能到达。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名和电话号码，我这边帮您查询一下。"
+            },
+            {
+                "from": "human",
+                "value": "我的名字叫张三，电话号码是123456789。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:好的，我会尽快查询并告知您包裹的到达时间。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001563_PfxaCQE",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想知道购买手机从台湾发货到大陆需要多长时间？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'goods':'手机','intent':'发货时间'}:我们从台湾发货的商品一般需要5-10个工作日才能送达大陆地区。请您耐心等待，如有疑问，请随时向我咨询。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000193_Jz0nIA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我等了好久了，怎么还没收到货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您等待这么久。我会尽快催促送货，确保您能尽快收到商品。请您耐心等待，谢谢。"
+            },
+            {
+                "from": "human",
+                "value": "好吧，但是我等不及了，我要取消订单。"
+            },
+            {
+                "from": "assistant",
+                "value": "很抱歉，您的商品已经出货了，无法取消送货。但是您可以收到货后联系我，我会帮您处理退货事宜。非常抱歉给您带来不便。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000402_dv3SGA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问我的订单什么时候能送达？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}我们这边会帮您催下物流的"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "您的订单正在配送中，请您耐心等待。如有需要，随时联系我们的客服人员，我们会尽快为您提供帮助。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001563_PfxaCQG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问你们有没有这款超弹冰丝休闲裤?"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'休闲裤','style':'冰丝','style':'超弹'}:是的，我们有货。如果您需要购买，请告诉我您的姓名、电话和收货地址，我可以帮您下单。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000224_xlwkbe",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我要查询的物流信息是什么"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:您好，麻烦您提供您下单时的电话或者订单号，这边帮您查询喔"
+            },
+            {
+                "from": "human",
+                "value": "电话0978123456"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。{'phone':'0978123456'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000049_UDsFyA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问这件商品有多少库存？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:这件商品的库存情况我们需要核实一下，请您稍等片刻，我会尽快给您答复。另外，为了更好地为您服务，请告诉我您的姓名和电话号码，以便我们与您联系。"
+            },
+            {
+                "from": "human",
+                "value": "我叫王小明，电话号码是0987654321。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'name':'王小明', 'phone':'0987654321', 'intent':'查询商品'}:非常感谢您提供的信息，我已经记录下来。我们将尽快核实该商品的库存情况，并通过电话与您联系。如果您还有其他问题，欢迎继续咨询。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000287_xo1tmc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想问一下，眼镜买一送一的话，可以选择全家便利店取货吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式','goods':'眼镜','size':['250度','300度']}:当然可以喔！我们支持商超取货，您可以选择全家便利店作为取货点。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000085_W7TuyX",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下退货物流信息。"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您能提供您的姓名和电话号码吗？"
+            },
+            {
+                "from": "human",
+                "value": "我叫王小美，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我会帮您查询退货物流信息，请稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000226_cFx0Pv",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问下单后大约多久能送到呢？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，下单后通常需要4-7个工作日左右才能送达。"
+            },
+            {
+                "from": "human",
+                "value": "那我可以指定送货时间吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:在派送前，快递员会提前电话联系您，您可以和快递员约定到达时间和收货地点哦。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000086_P0BkJj",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问商品送到后我能选择收货的时间和地点吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:是的，当货物到达时，我们会通过电话通知您，并您可以自行决定收货的时间和地点。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，请问还有其他问题吗？"
+            },
+            {
+                "from": "human",
+                "value": "没有了，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，祝您生活愉快！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000165_zV9gTU",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单何时能处理完？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:您好，非常抱歉给您带来了不便。请您提供一下您的订单编号，我会帮您催下物流进度。"
+            },
+            {
+                "from": "human",
+                "value": "我的订单编号是ABC123456789。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚', 'code':'ABC123456789'}:好的，我已经记录了您的订单编号ABC123456789。我会尽快为您查询物流进度并安抚您的不安心情。请您耐心等待片刻，我会尽快给您回复。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000416_AeB3VB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想取消刚刚的订单。我买了一件T恤，但是尺码不合适。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'已购取消订单','goods':'T恤'}:请问您的姓名电话我帮您查询喔。"
+            },
+            {
+                "from": "human",
+                "value": "我叫陈小芳，电话号码是0928123456。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。{'phone':'0928123456'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000313_dhgziZ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你觉得今天天气怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:今天的天气真是美好啊！有什么其他问题我可以帮助您解答吗？"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000116_jYTMSb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想知道我的退货物流情况，已经等了好几个月了，能帮我查一下吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请问您的姓名和电话号码，我会帮您查询退货物流情况。"
+            },
+            {
+                "from": "human",
+                "value": "我是张三，电话号码是0987654321。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我已记录下您的姓名和电话号码。请稍等片刻，我将为您查询退货物流情况。{'name':'张三','phone':'0987654321'}"
+            },
+            {
+                "from": "human",
+                "value": "请尽快帮我查一下，谢谢。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，请稍等片刻，我会尽快为您查询。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000061_FJeic7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我可以选择货到付款吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:我们非常抱歉，目前暂不支持货到付款服务。您可以选择商超或7-11收货，并在下单时选择付款方式为现金付款。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000086_P0BkJj",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想查询一下我订购的黑色无线耳机的发货物流信息，我叫陈小芳，我的电话是0934123456。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我将为您查询，请稍等片刻。{'phone':'0934123456','name':'陈小芳'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000049_UDsFyB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "这款商品有其他颜色可选吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:是的，这款商品还有其他颜色可选。您可以告诉我们您的姓名、电话和收货地址，我帮您下单吗？"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000376_S4DjUf",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我最近感觉很疲倦，有什么方法可以提高精力吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:确保充足的睡眠，保持健康的饮食习惯，适度运动，避免过度疲劳，这些都可以帮助提高精力。此外，定期放松和休息也很重要哦。还有其他问题需要我帮助吗？"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000270_sbdcjS",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问一下"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，请问有什么需要帮助的吗？"
+            },
+            {
+                "from": "human",
+                "value": "我想查询一下我的包裹"
+            },
+            {
+                "from": "assistant",
+                "value": "当然，请告诉我您的姓名和电话号码，我来为您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我叫陈小明，电话是0934567890"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，陈小明先生，我已收到您的电话信息。请您稍等片刻，我会为您查询您的包裹信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000344_fiJWeA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想问一下发货时间"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}您好，通常我们会在确认订单后的2个工作日内安排发货。请问还有其他问题吗？"
+            },
+            {
+                "from": "human",
+                "value": "好的，非常感谢"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，有任何其他问题，请随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000166_JdGQcA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好，我想退货，我购买的是一个电热水壶，但是它的质量有问题，能帮我处理退货退款吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'退货退款','goods':'电热水壶'}:请问您的姓名和电话号码，我们将帮您查询退货退款的相关信息。"
+            },
+            {
+                "from": "human",
+                "value": "我叫林小美，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'退货退款','name':'林小美','phone':'0912345678'}:好的，林小美先生/小姐，请稍等，我将为您查询相关信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000339_3LPHRZ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问下单后需要多久能发货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，一般下单后的处理时间为1-3个工作日，然后需要再加上物流配送的时间，一般为2-5个工作日左右。具体的发货时间会根据您所在的地区和商品库存情况而有所不同。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000279_QEWeS6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好，我收到了美白牙齿套，但是按照说明书将牙齿放入热水中，一直无法泡软。请问应该如何正确使用呢？谢谢！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'使用方式','goods':'牙齿套','func':'美白'}:商品链接中有示范视频可以参考一下。您可以点击链接查看。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000060_FJeicA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问我可以在你们这里购买商品吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:当然可以！您可以直接下单，我们会尽快为您发货。请问您具体需要购买什么商品呢？"
+            },
+            {
+                "from": "human",
+                "value": "我想买一件蓝色的连衣裙，有货吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品', 'slot-1':'连衣裙', 'slot-5':'蓝色'}:我们有蓝色连衣裙的库存，请问您需要多少件呢？"
+            },
+            {
+                "from": "human",
+                "value": "我需要两件，请问价格是多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品', 'slot-1':'连衣裙', 'slot-5':'蓝色', 'slot-4':'两件'}:蓝色连衣裙的价格是XXX，请问您需要付款方式是什么呢？"
+            },
+            {
+                "from": "human",
+                "value": "我会选择7-11取货付款，请问如何下单呢？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品', 'slot-1':'连衣裙', 'slot-5':'蓝色', 'slot-4':'两件', 'slot-9':'7-11'}:非常好，您可以提供您的电话号码，我们会为您下单并尽快与您联系。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000227_HtzWIA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问我的包裹什么时候能送达？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名和电话号码，我们这边帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我叫王小明，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，王小明先生，我们会尽快帮您查询物流信息并回复您。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000340_3LPHRZ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问下下单后多久可以发货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，一般下单后的4-7个工作日内会发货，请您耐心等待。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003673_0NycnA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想问一下发货时间"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，感谢您的咨询。因为这个产品是热销产品，所以送货时间可能会稍有延迟。一般来说，我们会在1星期左右尽快为您送达。如果有任何变动，我们会尽快与您联系。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "您有其他问题需要咨询吗？"
+            },
+            {
+                "from": "human",
+                "value": "请问退货流程怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'退货流程'}:非常抱歉给您带来不便。我们提供退货服务，请您提供订单编号和购买商品信息。我们会尽快为您处理退货申请，并告知您具体的退货流程和注意事项。"
+            },
+            {
+                "from": "human",
+                "value": "好的，我会提供相关信息的"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您的配合，请您提供订单编号和购买商品信息，我们会尽快为您处理退货申请。如有其他问题，随时与我们联系。祝您购物愉快！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000410_3ozcHl",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问有优惠吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'询问折扣'}:非常抱歉，目前没有特别的优惠活动。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001551_l6JwrL",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想买一款拇指外翻矫正带。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'拇指外翻矫正带'}:当然可以，为了更好地为您服务，请提供您的姓名、电话、收货地址以及您需要的数量。我们将为您订购并优先发货派送。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_2000231_uQlZbD",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请帮我查一下我购买的商品的订单状态，我是吴明晨，电话号码是0955123456"
+            },
+            {
+                "from": "assistant",
+                "value": "{'phone':'0955123456','name':'吴明晨','intent':'订单信息'}:非常感谢您提供的信息，我已经记录下您的电话号码。请稍等片刻，我将为您查询订单状态。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000162_aY7l9G",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查一下我的订单物流信息"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名和电话号码，我帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我是王小明，电话是0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我将为您查询，请稍等片刻。{'name': '王小明', 'phone': '0912345678', 'code':'assistant'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000161_sN02tg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查一下我的订单状态"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'订单信息'}:感谢您的反馈，我将为您查询订单，请提供您的订单编号和电话号码。"
+            },
+            {
+                "from": "human",
+                "value": "我的订单编号是987654321，电话号码是123456789"
+            },
+            {
+                "from": "assistant",
+                "value": "{'code':'987654321','phone':'123456789','intent':'订单信息'}:已收到您的订单编号和电话号码信息，我将为您查询订单状态，请稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000151_w9AxkA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我已经等了很久了，为什么还没有处理？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:我们非常抱歉让您等待这么久。我会立即催促相关部门处理您的问题，请您耐心等待。如果还有其他问题，请随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000359_ZOqzhx",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问这个染发洗发液使用方法是怎样的？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:每次使用时取出适量即可。商品链接中有详细的使用示范视频供您参考。您可以点击链接查看。我们的商品都是健康纯天然的，所以您可以放心使用。如果您有兴趣购买，请告诉我您的电话号码、姓名和收货地址，我可以帮您下单。同时，我们支持7天鉴赏期喔。"
+            },
+            {
+                "from": "human",
+                "value": "这个洗发液需要多久才能见效？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'使用方式'}:每次使用都能见效，长期使用效果更好喔。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000320_7Bb9z6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好，我购买了一本台湾电商平台的书籍，现在想要取消订单，该怎么操作？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'已购取消订单'}:请问您的姓名和电话号码，我将为您查询并帮助取消订单。"
+            },
+            {
+                "from": "human",
+                "value": "黄美玲0987654321"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我已收到您的信息。请稍等片刻，我将为您查询并处理取消订单事宜。{'name':'黄美玲','phone':'0987654321'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001563_PfxaCQB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想了解一下这款商品的尺寸信息。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:非常感谢您的咨询。请问您可以提供商品的具体名称或者商品链接吗？这样我可以帮您查询相关尺寸信息。"
+            },
+            {
+                "from": "human",
+                "value": "这款商品是一件上衣，我在网站上看到的。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，非常抱歉让您久等了。请问这款上衣的颜色和尺码您有具体要求吗？"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000169_5ekbIA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好，请问我该如何退货？"
+            },
+            {
+                "from": "assistant",
+                "value": "非常抱歉给您带来不便。退货非常简单，您只需提供以下信息：\n1. 商品名称和数量\n2. 您的电话号码\n3. 您的订单编号（如有）\n我们会安排上门取件，请您您稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000164_PljcuA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想修改一下我的订单，地址改为新北市三重区五谷王一路8号，请注意，电话号码是0931122334"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'修改订单','city':'新北市','street':'三重区五谷王一路8号','phone':['0931122334']}: 感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000328_Rf6P1M",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好，我想查询一下我的订单的物流信息，我订购的是HFH-智慧5D浮动大功率刮胡刀。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流','goods':'刮胡刀','style':'大功率'}:请问您的姓名和电话，我们这边帮您查询。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000161_z3lujA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "不好意思，想要问一下7532428934出货了吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名电话我们这边帮您查询。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001555_oI3l1O",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问我要怎么在Tagomall的网页上找到这个锯子"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'锯子'}:请提供一下您想咨询的商品的图片或者网址"
+            },
+            {
+                "from": "human",
+                "value": "你好，我找到了，已经下单了！谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我们会尽快为您发货。如果有其他问题，请随时联系我们。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000313_8lTgwq",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "有备注要买蓝色、粉红色共2件"
+            },
+            {
+                "from": "assistant",
+                "value": "嗯嗯，我们会尽快为您送达的喔{'color':['蓝色','粉红色'],'count':'2件'}"
+            },
+            {
+                "from": "human",
+                "value": "要怎么回去看订单？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'订单信息'}:请问您的姓名电话我帮您查询喔"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001526_AmHlVy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下我的订单信息"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'订单信息'}:请问您的姓名和电话号码，我来帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我叫林小美，电话号码是0921897654"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，根据您提供的信息，我在系统中查询到您的订单信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000206_cxQjsK",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下退货的物流信息"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请问您的姓名和电话号码，我将为您查询。"
+            },
+            {
+                "from": "human",
+                "value": "王宇航，0987123456"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息。我将为您查询，请稍等片刻。{'phone':'0987123456','name':'王宇航'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000195_I0gwCP",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我退货退款的流程怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'退货退款'}:请问您的姓名和电话号码，我们这边帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我叫林小姐，电话号码是0921567890。我购买的商品有问题，想要申请退货退款。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我已经收到您的电话号码和姓名。请您稍等片刻，我将为您查询退货退款的流程。{'phone':'0921567890','name':'林小姐','goods':'购买的商品','style':[],'func':''}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000359_ZOqzhx",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好，请问这款染发洗发液有什么特色？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:我们的染发洗发液是一款健康纯天然的产品，不含有害化学成分，可以同时染发和洗发，方便快捷。您可以通过商品链接了解更多详情。"
+            },
+            {
+                "from": "human",
+                "value": "这款染发洗发液适合什么发质的人使用？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:这款染发洗发液适用于各种发质，包括干燥、油性、损伤等发质，可以有效染发并滋养头发。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000144_DPH9oA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的退款进度如何？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:您好，非常抱歉给您带来了不便。我会尽快为您查询退款进度，请稍等片刻。"
+            },
+            {
+                "from": "human",
+                "value": "我已经等了很久了，希望能尽快解决。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您久等了。我已经催促相关部门加急处理您的退款请求，并会尽快为您完成退款，请您耐心等待。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000122_T7Cw2S",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的退货物流信息查询到了吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:非常抱歉给您带来不便，请提供您的姓名和电话号码，我将为您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我是陈小美，电话号码是0928123456。"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您提供的信息，我已经收到您的电话号码。请稍等片刻，我将为您查询退货物流信息。{'name':'陈小美','phone':'0928123456'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000300_AbCdEf",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我刚刚购买了一件衣服，想问一下收货方式"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式','goods':'衣服'}:非常抱歉，由于平台的配送政策，我们无法提供星期六、日的收货服务。不过，我们支持将商品寄送到您附近的7-11便利店，您可以在方便的时间前往取货。请问您方便提供一下您的电话号码吗？"
+            },
+            {
+                "from": "human",
+                "value": "当然，我的电话号码是0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式','goods':'衣服','phone':'0912345678'}:好的，已经记录了您的电话号码。一旦您的订单准备好并发送到7-11便利店，我们会通过电话或短信通知您，请您保持电话畅通。有任何问题，随时联系我们。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000378_8b4GnB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我收到了弹弓，但是没有说明书，还有一些附件，不知道用途是什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'使用方式','goods':'弹弓'}:您好，非常抱歉没有附带说明书。关于附件的用途，可以为您提供使用参考。您可以访问商品链接中的示范视频，了解如何正确使用弹弓。请您查看一下，如果还有其他问题，请随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000306_fXv8Qa",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单什么时候可以送达？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:非常抱歉给您带来不便。请您提供一下您的姓名和电话号码，我们将帮您查询订单的物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "我是王小明，电话号码是09XXXXXXXX。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:好的，王小明先生，我会为您查询订单的物流信息，请稍等片刻。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:非常抱歉让您久等了。根据我们的查询，您的订单预计还需要3天左右才能送达，请您耐心等待。如有其他问题，欢迎随时咨询。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000358_LdUJgB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问你们的货物是如何配送的？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:我们使用新竹货运进行货物配送。您可以提供您的电话号码和订单号码，我可以帮您查询具体的配送进度。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000181_fwlpLA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单现在在哪里？订单号是GT203112335152160"
+            },
+            {
+                "from": "assistant",
+                "value": "{'code':'GT203112335152160','intent':'订单信息'}:好的，我已经收到您的订单号码。请稍等片刻，我会为您查询订单的当前状态。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000195_I0gwCA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你们一直拖延处理问题，这样做没有诚信！不要再做生意了！"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，请问您需要什么帮助呢？"
+            },
+            {
+                "from": "human",
+                "value": "如果你们不尽快处理，后果自负！是你们逼我的！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:我非常理解您的心情，如果您需要我帮助您查找订单、物流等信息，请告诉我您的电话号码，我将为您查询。"
+            },
+            {
+                "from": "human",
+                "value": "你们退款完成后，我可以将商品寄回土城！商品完好无损！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:我非常理解您的信息，已经在帮您催促了，会尽快为您处理的。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000061_FJeic6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问可以选择货到付款的方式吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:是的，我们支持货到付款的方式。您可以在收货时选择现金支付。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001560_DXkFKb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我已经等了好几天了，为什么我的按摩棒还没到？太慢了！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来的不便。我会尽快为您查询订单状态，请您稍等片刻。"
+            },
+            {
+                "from": "human",
+                "value": "好的，请尽快查询。我的电话号码是09xxxxxxxx。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'slot-2':'09xxxxxxxx'}:好的，我已经记录下您的电话号码。请您稍等，我会尽快查询并为您提供详细信息。"
+            },
+            {
+                "from": "human",
+                "value": "嗯，希望能尽快解决问题。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来的不便。我已经查询了您的订单，发现货物目前在配送途中，预计明天就可以送达。请您耐心等待，如有任何问题，我会第一时间通知您。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000139_mPyxtz",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "拜托你了"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:不客气，我们会尽快为您处理的喔"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000353_3RPSCA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想修改订单配送地址"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'修改订单','newaddr_area':'台北市','newaddr_street':'信義區光復南路102號'}:请告诉我您的姓名和电话号码，我将为您查询订单并修改配送地址。"
+            },
+            {
+                "from": "human",
+                "value": "我是陳小姐，电话号码是0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，陳小姐，我将为您查询订单，并修改配送地址为台北市信義區光復南路102號。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001566_5yI860C",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想买一条修身的黑色裙子，你们有吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'裙子','style':'修身','name':'陈美丽','phone':'0935123456','address':'台北市中山区'}:非常抱歉，我们暂时没有修身的黑色裙子。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000416_WsB2UX",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想订购一双防滑鞋，能确保有止滑效果吗？我是一位年长的顾客，需要穿着安全的鞋子，以免发生意外。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'鞋子','style':'防滑'}:如果您想订购，可以提供您的收件人姓名、电话、地址，我可以为您代订，并尽快安排出货和送货。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000383_8clSuB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的退货何时可以处理？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉，由于货运的原因，处理时间可能会有所延迟。我们会尽快安排处理您的退货请求。"
+            },
+            {
+                "from": "human",
+                "value": "我已经等了很长时间了，怎么还没有处理？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来困扰。请您再耐心等待一下，我们会尽快处理您的退货请求。"
+            },
+            {
+                "from": "human",
+                "value": "我已经等了两个月了，这样的服务真是让人失望！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来不便和失望。我会立即催促相关部门尽快处理您的退货请求，以维护我们的诚信形象。"
+            },
+            {
+                "from": "human",
+                "value": "希望这次能够真正解决问题，我对贵公司的服务失望透顶！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:我非常理解您的失望和不满。我会尽全力协助您解决问题，尽快处理您的退货请求。"
+            },
+            {
+                "from": "human",
+                "value": "好吧，我希望能够尽快解决，不再出现问题。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常感谢您的理解和耐心等待。我会尽快跟进处理，确保问题得到解决。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000382_6hrURA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问收货方式是怎样的？"
+            },
+            {
+                "from": "assistant",
+                "value": "我们的收货方式有多种选择，您可以选择快递配送或到指定门店自提。请问您更倾向于哪种方式呢？"
+            },
+            {
+                "from": "human",
+                "value": "我更倾向于快递配送，可以提供一个电话号码吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "当然可以，请您提供一个以09开头的电话号码，我们将使用该号码与您确认配送细节。"
+            },
+            {
+                "from": "human",
+                "value": "我的电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我们会使用电话号码0912345678与您确认配送细节。请问还有其他问题我可以帮助您解答吗？"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000196_R2OnYm",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我已经等了好久了，什么时候能退货退款？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您等待这么久。我们已经在积极催促物流公司了，尽快为您完成取货和退款。"
+            },
+            {
+                "from": "human",
+                "value": "你们还需要多久才能处理好？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:具体时间取决于物流公司的安排，我们已经加急处理了。"
+            },
+            {
+                "from": "human",
+                "value": "我真的等得好焦急，能不能快点解决？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来困扰，请您再等待一下，我们会尽快安排上门取件。"
+            },
+            {
+                "from": "human",
+                "value": "我已经等得不耐烦了，我要采取行动了！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您不满意。我们已经催促物流公司了，请您再耐心等待一下物流进度。"
+            },
+            {
+                "from": "human",
+                "value": "我遇到过很多类似的商家了，你们是不是一样的？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:我们非常重视您的问题，我们确实在努力处理。"
+            },
+            {
+                "from": "human",
+                "value": "我在网络上看到你们是诈骗购物商城，是真的吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:不是的，请您放心。我们的商品都来自正规的生产企业。"
+            },
+            {
+                "from": "human",
+                "value": "我希望你们能尽快处理好，我等不了了。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:我们会尽快为您处理好的，请您再耐心等待一下。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001556_oI3l1O",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问这个锯子的尺寸是多大？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'锯子'}:请问您需要知道哪个具体尺寸的锯子？可以提供更多细节吗？"
+            },
+            {
+                "from": "human",
+                "value": "你好，我想知道这款锯子的刀片长度是多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'锯子'}:非常抱歉，我需要您提供更多详细信息，例如品牌、型号或者锯子的具体描述，这样我才能帮您查询到准确的信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003647_tUYFzE",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好"
+            },
+            {
+                "from": "assistant",
+                "value": "你好，请问有什么问题我可以帮助您解决呢？"
+            },
+            {
+                "from": "human",
+                "value": "你们有卖耳机吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "是的，我们有各种类型的耳机供您选择。请问您对耳机有特定的需求或者款式偏好吗？"
+            },
+            {
+                "from": "human",
+                "value": "我想买一款蓝牙耳机，不要太贵的。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我们有多款蓝牙耳机可供选择。您可以告诉我您的姓名、电话以及收货地址，我将帮您下单并安排发货。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001566_5yI860D",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我等了好久了，为什么还没有收到我的包裹？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}非常抱歉给您带来不便。我会立即帮您催促物流进度，请您稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000410_3ozcHl",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问有没有特价活动？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'询问折扣'}:现在已经是优惠价了哦，您现在购买是非常划算的呢。如果您感兴趣，可以告诉我您的电话号码、姓名以及收货地址，我可以帮您下单并尽快发货哦。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000182_bGfDqY",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下我的订单，我的手机号码是0987654321"
+            },
+            {
+                "from": "assistant",
+                "value": "{'phone':'0987654321','name':'王小明','intent':'订单信息'}:感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000111_Xi9VDa",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下我的包裹在哪里了"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}请问您的姓名和电话号码，我将帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "林小美0987654321"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我将为您查询，请稍等片刻。{'phone':'0987654321','name':'林小美'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003704_SNLGAA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问商品发货需要多久？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，一般订购后的第二个工作日开始发货，发货后大约需要4-7个工作日送达。请您耐心等待。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，如有其他问题，请随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001526_XyKlXIB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想问一下，怎么才能选择超商取货呢？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}: 您好，请问您要选择超商取货的话，需要提供您的电话号码和姓名信息。可以麻烦您告诉我您的电话号码和姓名吗？"
+            },
+            {
+                "from": "human",
+                "value": "当然，我的电话号码是0923456789，姓名是陈小明。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'phone':'0923456789','name':'陈小明','intent':'咨询收货方式'}: 好的，陈小明先生，您的超商取货方式已经设置成功。请问还有其他问题需要帮助吗？"
+            },
+            {
+                "from": "human",
+                "value": "没有了，谢谢！"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，祝您生活愉快！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003765_a5SbMT",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想知道我的订单的物流情况"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}请告诉我您的姓名和电话号码，以便为您查询。"
+            },
+            {
+                "from": "human",
+                "value": "王大明，0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "已收到您的信息，请稍等片刻，我将为您查询。{'phone': '0912345678', 'name': '王大明'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000211_ZeWgQA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问货物到达时会有电话通知吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "是的，当货物到达时，我们会给您打电话通知，您可以决定收货的具体时间和地点。"
+            },
+            {
+                "from": "human",
+                "value": "好的，那我想在星期六收货，可以吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "当然可以，请告诉我您的电话号码，以便我们联系您确认具体的收货时间和地点。"
+            },
+            {
+                "from": "human",
+                "value": "我的电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我们会在星期六联系您确认收货时间和地点，请保持电话畅通。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000128_jGmF94",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想查询一下退货物流信息"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请问您的姓名和电话号码，我可以帮您查询退货物流。"
+            },
+            {
+                "from": "human",
+                "value": "我是黄小明，电话号码是0923456789"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我将为您查询退货物流。请稍等片刻。{'name':'黄小明','phone':'0923456789'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000415_2tQG7G",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问这款蒸笼能放几个蛋糕？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'使用方式','goods':'蒸笼'}:这款蒸笼可以放2个蛋糕喔"
+            },
+            {
+                "from": "human",
+                "value": "好的，我想购买一台"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','count':'1个'}:请提供您的收件人姓名、电话和地址，我将为您代订并安排出货送货"
+            },
+            {
+                "from": "human",
+                "value": "收件人姓名：王小美，电话：0909123456，地址：台北市中山区XX街XX号"
+            },
+            {
+                "from": "assistant",
+                "value": "我已经收到了您的订购信息，请稍等。{'name':'王小美','phone':'0909123456','area':'台北市中山区','street':'XX街XX号'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000266_ZVX3cD",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我收到的杯子尺寸是错误的，我订购的是110尺寸的杯子，但收到的是220尺寸的"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'错误发货','goods':'杯子','oldgoods_size':'220','newgoods_size':'110'}:非常抱歉给您带来了不便，我会尽快为您解决。请问您的姓名和电话号码，以便我们查询您的订单信息并安排正确的商品发货。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000282_YtLG9P",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我订购的商品桂花莲藕买一送一850什么时候可以收到？会通过短信通知吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流','goods':'桂花莲藕'}:请问您的姓名和电话号码，我将为您查询。"
+            },
+            {
+                "from": "human",
+                "value": "陈小姐，09xxxxxxxx"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我已收到您的电话号码。请稍等片刻，我将为您查询。{'name':'陈小姐','phone':'09xxxxxxxx'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000227_cFx0Pv",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问商品寄出后多久能收到"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，一般情况下，商品寄出后需要4-7个工作日左右才能送达。请您耐心等待，如有特殊情况我们会提前与您联系的喔。"
+            },
+            {
+                "from": "human",
+                "value": "那如果我需要在特定时间收货怎么办"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:商品配送前，配送员会提前与您电话联系，您可以和配送员约定具体的送达时间和地点。请您放心，我们会尽力满足您的需求。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000146_8WDPAa",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我在你们平台购买了一把激光红外线弹弓，但是没有收到组合及使用说明书和橡胶带，里面的东西和照片上不一样。我的姓名是陈小明，电话号码是0928123456。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'使用方式','goods':'弹弓','style':'激光红外线','name':'陈小明','phone':'0928123456'}:非常抱歉给您带来了困扰。关于激光红外线弹弓的使用方式，您可以参考商品链接中的示范视频。如果您还有其他问题，请随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000205_cxQjsK",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "所以还是会来收货是吗?退货已申请3个月了"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请问您的姓名电话我们这边帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "张樱芬，0983080647"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您反馈的电话与姓名信息。我将为您查询，请稍后。{'phone':'0983080647','name':'张樱芬'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000188_x8aOVU",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问你们这里有卖电动自行车吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}非常抱歉，我们这里暂时没有电动自行车的售卖，但是我们有其他种类的商品可以提供给您，您有其他需要查询的商品吗？"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000353_3RPSCA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想更改订单的收货地址，可以吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'修改订单','newaddr_area':'','newaddr_street':''}:请问您的姓名电话我们这边帮您查询。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000256_0rTLgO",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "已经等了好久了，你们还不来收，我要退的鞋怎么办？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉，我们会尽快处理您的退货请求。请您提供一下订单编号和退货原因，我们会尽快为您办理退货事宜。"
+            },
+            {
+                "from": "human",
+                "value": "订单编号是GIK123456789，我想退货的原因是尺码不合适。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来不便。我们会尽快安排物流人员上门取回您的退货商品，请您耐心等待。一旦收到退货商品，我们会为您办理退款手续。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001563_PfxaCQJ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问下单后需要多长时间能收到货物？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:一般下单后4-7个工作日左右可以收到货品喔。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003770_d31OIR",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好"
+            },
+            {
+                "from": "assistant",
+                "value": "请问有什么问题需要咨询呢？"
+            },
+            {
+                "from": "human",
+                "value": "请问货到付款的方式是什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent': '咨询收货方式', 'payment': '货到付款'}：我们支持货到付款的服务，请问您需要咨询哪个具体的货到付款方式呢？"
+            },
+            {
+                "from": "human",
+                "value": "好的，我想了解7-11超商的货到付款方式"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent': '咨询收货方式', 'payment': '7-11超商取货付款'}：是的，我们支持7-11超商取货付款的服务。您可以在下单时选择7-11超商取货付款，待商品到达7-11超商后再付款。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000265_FPX9fB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "这个裤子尺码不合适，我订购的是M码，但收到的是S码。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'错误发货','goods':'裤子','oldgoods_size':'M','newgoods_size':'S'}:非常抱歉给您带来了困扰，请问您的姓名和电话号码是什么？我们将帮您查询并解决问题。"
+            },
+            {
+                "from": "human",
+                "value": "我叫陈小美，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的陈小美，我们会尽快为您查询订单，并协助您解决尺码问题。请您稍等片刻，谢谢您的耐心。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000099_5d1S3W",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问我可以查询退货物流吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "当然可以，请问您的姓名和电话号码是什么？我可以帮您查询退货物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "我叫王小美，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，王小美，我会帮您查询退货物流信息，请稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000384_7jzDmS",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我已经等了好几天了，什么时候能取件？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您久等了。我们已经记录您的催促请求，会尽快为您安排取件。请您耐心等待，我们会尽快解决此事。"
+            },
+            {
+                "from": "human",
+                "value": "好的，我会耐心等待的。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常感谢您的理解和耐心等待。如有任何进展或其他问题，我们会及时与您联系。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003770_d31OIR",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "请问有什么问题呢？"
+            },
+            {
+                "from": "human",
+                "value": "我想了解货到付款的收货方式"
+            },
+            {
+                "from": "assistant",
+                "value": "当然可以喔。您可以选择7-11超商取货付款的方式，方便快捷。"
+            },
+            {
+                "from": "human",
+                "value": "听起来不错"
+            },
+            {
+                "from": "assistant",
+                "value": "如果还有其他问题，请随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003770_d31OIR",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好"
+            },
+            {
+                "from": "assistant",
+                "value": "请问有什么问题需要咨询呢？"
+            },
+            {
+                "from": "human",
+                "value": "请问货物可以货到付款吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{\"intent\": \"咨询收货方式\",\"payment\": \"7-11超商取货付款\"}: 是的，我们提供7-11超商取货付款的服务。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，有其他问题可以随时问我哦。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000127_jFnL63",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想查询一下退货的物流信息。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请问您的姓名和电话号码，我将帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我叫陈小红，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，陈小红，您的退货物流信息我会帮您查询，请稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000176_NQkgaA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "assistant",
+                "value": "您好，物流回收时会有电话通知的，我们也会帮您催促一下喔 {'name':'陈芳芳','account':'0926-123-456','bank':'808账户银行/分行：玉山银行南京东路分行','goods':'调理机','count':'3台','reason':'商品有瑕疵'}"
+            },
+            {
+                "from": "human",
+                "value": "谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000369_GPF2i5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我的订单还没有收到，请帮我查询一下。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您购买的是什么商品？"
+            },
+            {
+                "from": "human",
+                "value": "我购买的是一台空气净化器。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息。请问您的姓名和电话号码是多少？"
+            },
+            {
+                "from": "human",
+                "value": "陈小明0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您的信息。我会为您查询，请稍等片刻。{'phone':'0912345678','name':'陈小明'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000095_ys9J6S",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我买的鞋子尺码不合适，可以退货吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'询问鉴赏期'}:我们支持7天鉴赏期的喔，如果您收到货不喜欢可以联系我申请退货喔"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003730_FHVaE3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您有什么问题"
+            },
+            {
+                "from": "human",
+                "value": "请问有卖夜用拇指矫正带吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'goods':'拇指矫正带','style':'夜用','intent':'查询商品'}:这个对吗？"
+            },
+            {
+                "from": "human",
+                "value": "二个是790元吗是否要运费"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'询问折扣'}:麻烦发送一下您想订购的商品图片或者网页链接喔。不需要运费的。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000383_OfL30c",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我已经等了好久了，你们什么时候来收退货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您等待这么久。我会立即联系物流部门，加快处理您的退货流程。请您耐心等待，我们会尽快为您安排取件。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000226_cFx0Pv",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问一般订购完成后需要多长时间才能收到商品？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，一般订购完成后4-7个工作日左右可以收到商品喔。"
+            },
+            {
+                "from": "human",
+                "value": "那如果我希望在晚上10点半过后收到，可以吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:快递员在派送前会提前电话联络您的，您也可以和快递员在电话中约定到达时间和收件地点的喔。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003730_FHVaE3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您有什么问题"
+            },
+            {
+                "from": "human",
+                "value": "请问有卖夜用拇指矫正带吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'goods':'拇指矫正带','style':'夜用','intent':'查询商品'}:这个对吗？"
+            },
+            {
+                "from": "human",
+                "value": "我想问一下，夜用拇指矫正带的价格是多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'询问折扣'}:请您提供一下您想订购的商品图片或者网页链接。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003765_a5SbMT",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单发货了吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}请问您的姓名和电话号码，我将为您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我叫林小芳，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我已经记录下来了。请稍等片刻，我将为您查询发货物流信息。{'name':'林小芳','phone':'0912345678'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000301_bVAc6s",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我听说最近有很多新的电影上映，你有什么推荐的吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:当然，最近上映了一部非常受欢迎的电影叫做《流浪地球》，是一部科幻灾难片，非常精彩。您对这部电影感兴趣吗？"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001566_5yI860B",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我订购的商品何时可以送到？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，一般订购后的4-7个工作日左右可以送达哦。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000139_Q3f5sk",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下我的包裹发货情况"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流', 'func':'查询发货情况'}: 请问您购买的是哪个商品？"
+            },
+            {
+                "from": "human",
+                "value": "我购买的是蓝色棉衣"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您的姓名和电话号码，我们这边帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我叫林美娟，电话号码是0925812345"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的提供，我已收到您的姓名和电话号码。我将为您查询，请稍后。 {'name':'林美娟', 'phone':'0925812345'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000271_U1AeQY",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问一下我有寄出的包裹到哪了呢？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流','goods':'包裹'}:请问您的姓名和电话号码是多少呢？"
+            },
+            {
+                "from": "human",
+                "value": "我叫陈小美，电话是0987654321"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我会为您查询，请稍等片刻。{'phone':'0987654321','name':'陈小美'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000379_aWyRYB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单什么时候能到？已经等了好久了。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉，给您带来了不便。我会立即为您催促物流，尽快安排发货。"
+            },
+            {
+                "from": "human",
+                "value": "希望你们能够加快处理速度，我真的等得不耐烦了。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:我们非常理解您的焦急心情。我已经联系物流公司，会尽快跟踪您的订单并尽快发货。非常抱歉给您带来了困扰。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000313_dhgziY",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "最近天气不错，适合出门旅游"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:是的，天气确实不错。您有什么旅游目的地吗？"
+            },
+            {
+                "from": "human",
+                "value": "我计划去台北旅游，你有什么推荐的景点吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:台北有很多著名的景点，比如台北101、故宫博物院和士林夜市。您可以根据个人兴趣选择适合您的景点。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢你的建议！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:不客气，如果还有其他问题，我随时为您解答。祝您旅途愉快！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000380_bXyYXW",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问我的订单什么时候可以送到？已经等了好久了。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉，我了解您的情况并感谢您的耐心等待。我会尽快催促物流部门加快配送进度，确保您的订单尽快送达。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000162_U6bYtV",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下我的订单物流信息"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名和电话号码，我将帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我叫林小美，电话号码是09XXXXXXXX"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我已收到您的订单查询请求。请稍等片刻，我将为您查询。{'code':'assistant'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000256_0rTLgO",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你们这个电商平台的物流真是太慢了，我等了一个礼拜了还没有收到商品。我已经等得很不耐烦了，如果下个礼拜还没有收到，我会采取一些措施，比如寄存证信函并报警告你们诈欺行为。希望你们能尽快处理这个问题，否则我会要求赔偿。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉，我们会再次催促物流部门加快处理。请您再给我们一两天的时间来解决这个问题，非常抱歉给您带来的不便。"
+            },
+            {
+                "from": "human",
+                "value": "{'intent':'催促安抚'}:已经过去一个礼拜了，你们还没有来收取我要退换的鞋子。如果你们不尽快来收回去，我真的无法忍受了。如果你们换位思考，你会希望别人怎么对待你吗？请你们尽快行动起来。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉，我们已经在积极催促物流部门了。请您再给我们一些时间，我们会尽快解决这个问题。非常抱歉给您带来的困扰。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000139_KvgfBl",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，最近有什么好看的电影推荐吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'scene':'电影推荐','intent':'闲聊'}:当然有啦！最近有一部非常热门的电影叫做《罗马浴场》，它是一部剧情片，讲述了一个关于家庭和自由的故事，非常感人。你可以去影院观看或者在线平台观看。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001567_lbq0MF",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想了解一下假牙的价格。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'假牙'}: 感谢您对我们的产品感兴趣！假牙的价格因型号和材质而异。为了更准确地提供价格信息，请您告诉我您的姓名、电话和收货地址，我可以帮您下单并提供详细的价格信息。"
+            },
+            {
+                "from": "human",
+                "value": "我叫林小美，电话是0912345678，收货地址是台北市中山区123号。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'假牙','name':'林小美','phone':'0912345678'}: 谢谢您提供的信息，我已经记录下来。我们的客服人员会尽快与您联系，提供详细的价格信息和下单流程。如有其他问题，请随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001564_PfxaCQH",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "这款休闲裤有货吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'休闲裤','style':'冰丝','style':'超弹'}:是的，我们有这款超弹冰丝休闲裤。如果您需要购买，请提供您的姓名、电话和收货地址，我可以帮您下单。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001560_DXkFKb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我的订单还没到，怎么这么慢？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来了不便。您的订单正在运送途中，预计会在今天或者明天送达。请您稍安勿躁，谢谢您的耐心等待。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000304_U9W340",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单ES-16什么时候能送到？你们的配送员可以先打电话给我，以免无人收货。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:您好，具体的送达时间取决于货运情况，我们的配送员会在送达前与您联系并约定具体时间。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢！"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，如果还有其他问题，请随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001563_abc123",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想问一下，这个床单的尺寸大小是否可以退换货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'床单'}:是的，床单的尺寸大小不合适可以退换货。"
+            },
+            {
+                "from": "human",
+                "value": "明白了，谢谢您的回答！"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，如果还有其他问题，欢迎随时咨询。祝您生活愉快！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000401_o0QAOb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想了解一下现代人的结婚照拍摄风格"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent': '闲聊'}:现代人的结婚照风格多样化，可以根据个人喜好选择。有的人喜欢时尚、个性的拍摄风格，比如在城市街头或现代建筑中拍摄；有的人喜欢浪漫、自然的风格，选择在自然风景中拍摄；还有的人喜欢传统、古典的风格，选择在庄园或宫殿中拍摄。您可以根据自己的喜好和主题选择适合的风格。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000193_Jz0nIA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我等了好久，还没收到货，能不能快点送到？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来了不便。我已经催促物流尽快将商品送达您的地址。请您耐心等待，我们将尽力保证您尽快收到商品。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003673_0NycnA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我刚下了一个订单"
+            },
+            {
+                "from": "assistant",
+                "value": "好的"
+            },
+            {
+                "from": "human",
+                "value": "请问大概多久可以收到货呢？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，因为这个产品是热销产品，所以会有一些延迟。一般来说，我们会尽快处理并安排发货，预计需要1到2个工作日的时间。请您耐心等待，我们会尽快送达。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "如果还有其他问题，请随时告诉我"
+            },
+            {
+                "from": "human",
+                "value": "希望你们的服务能够让我留下好印象"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我们会努力让您满意的"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000215_5J8d4R",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的包裹什么时候能送到？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:您好，请您告诉我您下单时的电话号码或订单编号，我将帮您查询物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "我是黄小姐，我的电话号码是0987123456"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您提供的信息。我会立即为您查询，请稍等片刻。{'phone':'0987123456','name':'黄小姐'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000070_3GvgU4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问你们有什么热门的商品推荐吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent': '闲聊'}:当然有啦！我们最近推出了一款全新的智能手表，功能非常强大，还有限时优惠哦！您可以告诉我您的姓名、电话和收货地址，我帮您下单。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000189_xaPOb6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下我的订单状态"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'订单信息','goods':'未提供'}:请问您的姓名和电话号码，我帮您查询喔"
+            },
+            {
+                "from": "human",
+                "value": "我的姓名是王小明，电话号码是0928765432"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。{'phone':'0928765432'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000078_y2Idsj",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下我的退货物流"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您的姓名和电话号码，我将帮您查询退货物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "我的姓名是林小美，电话号码是0955123456"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我已经收到您的信息。请稍等片刻，我将为您查询退货物流信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000077_y2Idsj",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我收到了一封邮件说我的退货已经寄出了，但我还没有收到退货物流的信息。请问我可以查询一下退货物流吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "非常抱歉给您带来的不便。为了查询退货物流，请您提供您的姓名和电话号码。"
+            },
+            {
+                "from": "human",
+                "value": "我叫王小明，电话号码是0955123456。"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您提供的信息。我会为您查询退货物流，请稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000278_od7m2A",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单什么时候能送到？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:您的订单已经在加急处理中，预计会在3~7个工作日内送达，请您耐心等待喔。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢！"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，如有其他问题请随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000357_tvFGxE",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "0934125678"
+            },
+            {
+                "from": "assistant",
+                "value": "我已经收到了您的电话信息，请问您需要什么帮助呢？{'phone':'0934125678'}"
+            },
+            {
+                "from": "human",
+                "value": "我想查询一下订单的发货状态"
+            },
+            {
+                "from": "assistant",
+                "value": "{'phone':'0934125678','intent':'订单信息'}:我将根据您提供的电话信息为您查询订单的发货状态，请稍等。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000272_PJZpBB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我需要修改订单的收货地址"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'修改订单','newaddr_street':'台北市信义区'}:请问您的姓名电话我帮您查询喔"
+            },
+            {
+                "from": "human",
+                "value": "黄小姐，我的电话是0918123456"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。{'phone':'0918123456','name':'黄小姐'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000224_xlwkbe",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我要换的衣服呢.至今已有数月了"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:您好，麻烦您提供您下单时的电话或者订单号，这边帮您查询喔"
+            },
+            {
+                "from": "human",
+                "value": "电话0973547591"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。{'phone':'0973547591'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000291_DzBSu7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想取消已购的订单"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'已购取消订单'}:请问您的姓名和电话号码，我帮您查询订单并进行取消操作。"
+            },
+            {
+                "from": "human",
+                "value": "王小明，0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，感谢您提供的信息。我将为您查询订单并进行取消操作，请稍等片刻。{'name':'王小明', 'phone':'0912345678'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000144_DPH9oA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请尽快处理我的退款申请，我已经等了很久了。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:好的，我会尽快为您处理退款申请。非常抱歉让您等待这么久。"
+            },
+            {
+                "from": "human",
+                "value": "我已经等了很久了，什么时候能退款给我？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来了不便。我已经催促加急处理您的退款申请，会尽快为您完成退款的。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001547_nHcFes",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent': '闲聊'}: 您好，请问有什么我可以帮助您的吗？"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001534_vbIsoDC",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想知道这款伸缩杯有哪些尺寸可以选择？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'伸缩杯'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000205_tKYGNZ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我购买了一件T恤，请问什么时候可以发货？"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您的购买，我们会尽快为您安排发货。请问您的姓名和电话号码，以便我们查询并提供具体发货信息。"
+            },
+            {
+                "from": "human",
+                "value": "我是王小明，电话号码是0928123456。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息。我将为您查询，请稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000096_DiQzuN",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我已经等了好久了，什么时候能发货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来了不便。为了更好地帮助您，能否提供一下您的姓名和电话号码？"
+            },
+            {
+                "from": "human",
+                "value": "我叫王小明，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'name':'王小明', 'phone':'0912345678'}:非常感谢您提供的信息，我会尽快为您查询订单并安排发货。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001555_oI3l1O",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问我要怎么在Tagomall的网页上找到这个锯子"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'锯子'}:很高兴为您提供帮助！请问您对这个锯子有具体的描述或者它的品牌、型号等信息吗？这样我可以更准确地帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "你好，我最近在找一款电动锯子，它是一款可充电的小型锯子，有没有类似的商品推荐？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'电动锯子'}:非常感谢您的描述！我们这里有一款符合您需求的电动锯子，品牌是XXXX，型号是XXXX，您可以在我们的官方网站上查看详情并下单购买。如果您需要更多帮助或其他商品推荐，请随时告诉我。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢！我会去官网查看的。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'电动锯子'}:非常感谢您的支持！如果您在查看过程中有任何问题或需要进一步的帮助，请随时联系我们。祝您购物愉快！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000085_8KQGkc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问我可以选择哪些收货方式？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:我们支持商超与7-11收货，送到您当时下单的地址。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000277_od7m2b",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我上星期二下单的商品大概什么时候到货呢？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名电话我们这边帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "李佩璇0963913172"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。{'phone':'0963913172','name':'李佩璇'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000322_DOcjwF",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，请问有什么需要帮助的吗？"
+            },
+            {
+                "from": "human",
+                "value": "我订的商品还没收到，想查一下发货物流"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您的姓名和电话号码，我可以帮您查询订单"
+            },
+            {
+                "from": "human",
+                "value": "我的姓名是张三，电话号码是123456789"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我会帮您查询订单，请稍等片刻"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000161_z3lujH",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查一下我的订单物流信息"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名和电话号码，我将为您查询物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "我叫陈小美，电话号码是0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我将为您查询，请稍等片刻。{'code':'assistant'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003770_d31OIR",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好，我想了解一下收货方式"
+            },
+            {
+                "from": "assistant",
+                "value": "当然可以，请问您希望通过哪种方式收货呢？"
+            },
+            {
+                "from": "human",
+                "value": "我想选择货到付款的方式"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我们支持7-11超商取货付款服务，您可以在收货时直接付款给快递员。"
+            },
+            {
+                "from": "human",
+                "value": "这样很方便，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，如果还有其他问题，请随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001526_AmHlVy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询我的订单信息"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'订单信息'}:请问您的姓名和电话号码是多少呢？"
+            },
+            {
+                "from": "human",
+                "value": "王小明，0921786354"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，根据您提供的信息我们这边没有查询到您的订单信息{'phone':'0921786354','name':'王小明'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003616_EnaG5P",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，请问您有什么问题需要咨询呢？"
+            },
+            {
+                "from": "human",
+                "value": "有没有推荐的手机品牌？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:很高兴为您提供手机品牌推荐。请告诉我您的预算和其他特殊需求，我会尽力为您推荐合适的手机品牌。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000262_0tqASA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我需要查一下我的订单"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'订单信息'}:请问您的姓名电话我帮您查询喔"
+            },
+            {
+                "from": "human",
+                "value": "0922901006"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。{'phone':'0922901006'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001562_oc5krQ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单发货了吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名和电话号码，我帮您查询喔。"
+            },
+            {
+                "from": "human",
+                "value": "我的名字是陈小姐，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "货物已经发出，您可以在1-3个工作日内收到。如有需要，我们会在送货前与您联系确认收货时间和地点。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001536_D4xtlb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我还没有收到快递的通知！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名和电话号码，我将帮您查询物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "黄志明0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我已经收到您的电话号码。请稍等片刻，我将帮您查询物流信息。{'phone': '0912345678', 'name': '黄志明'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000343_fiJWec",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好，请问有自喷防水补漏王吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'补漏胶','style':'自喷','style':'防水'}:您好，是的哦"
+            },
+            {
+                "from": "human",
+                "value": "我想购买6瓶自喷防水补漏王，价格多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','count':'6瓶','money':'1480','goods':'补漏胶','style':'自喷','style':'防水'}:您好，这是1480元的价格"
+            },
+            {
+                "from": "human",
+                "value": "好的，我要购买，请问怎么下单？"
+            },
+            {
+                "from": "assistant",
+                "value": "请告诉我您的电话号码、姓名和收货地址，我帮您下单"
+            },
+            {
+                "from": "human",
+                "value": "我的电话是0987654321，姓名是王小明，收货地址是台北市中山区中山北路123号"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，感谢您的信息。我将为您下单，请稍等。{'phone':'0987654321'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000085_8KQGkA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想知道我的订单什么时候能送到？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名和电话，我将帮您查询订单状态。"
+            },
+            {
+                "from": "human",
+                "value": "黄小姐，电话是0900512856。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，黄小姐，电话号码为0900512856。我将为您查询，请稍等片刻。{'phone':'0900512856','name':'黄小姐'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000358_tvFGxG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想退货，请问怎么操作？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'退货退款'}:您好，非常抱歉给您带来了不便。退货操作非常简单，请您提供以下信息：\n1. 退货的商品名称和数量；\n2. 您的订单编号；\n3. 您的联系电话。\n一旦我们收到您的退货申请，我们将安排上门取货，并用汇款的方式退还您的款项。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000181_Pq9KAb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单“GT203112335152161”什么时候能够到达？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'订单信息','code':'GT203112335152161'}:感谢您提供订单信息。我将为您查询，请稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000204_tKYGNZ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想查询一下我的订单发货情况"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您的购买，为了查询您的订单发货情况，请您提供一下您的姓名和电话号码"
+            },
+            {
+                "from": "human",
+                "value": "我是王小明，电话号码是0928765432"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的姓名和电话号码信息。我会尽快为您查询，请稍等片刻。{'name':'王小明','phone':'0928765432'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000145_vF1dGA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我已经等了好几个星期了，你们什么时候能处理好我的订单？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来了不便。我会帮您催促处理订单，请您再耐心等待一下。"
+            },
+            {
+                "from": "human",
+                "value": "我已经等了好几个月了，为什么还没有解决？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来了困扰。我们会再次加急处理您的订单，请您再做一些等待。"
+            },
+            {
+                "from": "human",
+                "value": "你们从一月份就说尽快处理，已经三个月了，这就是你们所谓的尽快吗？我觉得你们在拖延时间，欺骗顾客。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您造成了不满。我理解您的不满情绪，我们已经再次催促处理您的订单。"
+            },
+            {
+                "from": "human",
+                "value": "我订购的商品马上就要送到了，如果有问题却不解决，我会向消费者保护协会投诉的。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来了不满。我们会再次催促处理您的订单。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000246_Ne9vsE",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问我的退货进度如何？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来困扰，我们已经在催促物流公司了，会尽快为您完成取货的。"
+            },
+            {
+                "from": "human",
+                "value": "我希望能在三天内收到物流公司的联系，否则我会向消费者保护协会投诉，并希望您能及时回复，处理此事。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来不便，请您再耐心等待一下，我们真的已经帮您催促了。"
+            },
+            {
+                "from": "human",
+                "value": "如果问题得不到解决，我会举报您是个假客服。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:真的不是的喔，请您再稍微等待，我们已经帮您处理了。"
+            },
+            {
+                "from": "human",
+                "value": "您们是个骗子商城！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您造成困扰，请您再稍微等待，我们已经在催促物流了，会尽快为您完成取货的。"
+            },
+            {
+                "from": "human",
+                "value": "你们全家都该死！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来不满，请您再耐心等待一下，我们已经在催促物流了，会尽快为您完成取货的。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000272_5W4F5E",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下我的订单的发货物流信息"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流','goods':'订单','style':'发货物流'}:请问您的姓名和电话号码，我将帮您查询。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000176_NQkgax",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下我的退货物流状态。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流','goods':'未知','count':'未知'}:请问您的姓名和电话号码，我将帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我是黄小姐，电话号码是0987654321。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我将为您查询，请稍等片刻。{'phone':'0987654321','name':'黄小姐'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000154_jD2sM4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我最近搬家了，需要更改收件地址。新地址是台北市大安区信义路123号456楼之7。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'订单信息','city':'台北市','area':'大安区','street':'信义路123号456楼之7'}:请问您的姓名和电话号码，我帮您查询一下。"
+            },
+            {
+                "from": "human",
+                "value": "我叫王小明，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，王小明先生，我会尽快为您查询订单信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000401_BcdfPM",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单什么时候能发货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，一般订单在确认后的1-2个工作日内会安排发货，请您耐心等待。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000116_jYTMSb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下退货的物流信息，已经过了好几周了，还没有收到退款，请尽快处理，谢谢。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请问您的姓名和电话号码，我将为您查询退货物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "我的名字是陈小琳，电话号码是0923556789。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我已记录下您的电话号码和姓名。请稍等片刻，我将为您查询退货物流信息。{'phone':'0923556789','name':'陈小琳'}"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢。"
+            },
+            {
+                "from": "assistant",
+                "value": "非常抱歉给您带来的不便，请您耐心等待，我会尽快为您查询退货物流信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001532_ibr9L6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想了解一下手工黑芝麻丸的包装规格是怎样的？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'黑芝麻丸','style':'手工'}:您好，手工黑芝麻丸的包装规格因为是收购制作的，所以没有固定的颗数。一般来说，每瓶黑芝麻丸的颗数大约在9颗左右。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000078_Qr8dDz",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问我可以打电话联系客服吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'人工客服'}非常抱歉，目前只有在线客服可联络的喔。"
+            },
+            {
+                "from": "human",
+                "value": "那请问我应该如何联系客服呢？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'人工客服'}目前只有在线客服可联络喔。您可以通过在线客服页面进行咨询和提交问题，我们的客服人员会尽快为您解答。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢你的回答！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'人工客服'}不客气，如果还有其他问题，欢迎随时咨询！祝您有个愉快的购物体验！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001556_6Z32jwB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问商品何时能够送达？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:根据您的订单信息，预计商品将在最近2-3天左右送达。请您耐心等待，如有任何问题，请随时联系我们的客服团队。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000283_3HwG8A",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问货物何时能够送达？我这几天都在家。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:您好，具体的送达时间会根据货运情况而定。我们的快递员会提前与您电话联系，并与您约定具体的送货时间。请您保持电话畅通，谢谢。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001554_PL7fRaBF",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问发货需要多久？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:一般发货时间为3到7个工作日，到货前物流会提前联系您的"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000154_LiA5lA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我最近换了新的收件地址，台北市中正区忠孝东路一段100号，请帮我查询一下订单信息。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'订单信息','city':'台北市','area':'中正区','street':'忠孝东路一段100号'}：请问您的姓名和电话号码是多少呢？"
+            },
+            {
+                "from": "human",
+                "value": "我是陈小明，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我会尽快为您查询订单信息，请稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000085_8KQGkc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问这个商品支持哪些收货方式？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:我们支持商超与7-11收货，送到您当时下单的地址。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001566_5yI860B",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我订购的商品何时可以送到？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，一般订购后的4-7个工作日左右可以送达哦。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001563_PfxaCQD",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问这双鞋是从哪里产地来的？如果尺寸不合适，可以退换吗？我有点担心退换流程会不会很麻烦。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'皮鞋'}:这双鞋是台湾货哦，可以退换的。如果您有需要购买，请私信给我收件人的姓名、电话、地址以及您需要选购的鞋子规格，我可以帮您下单购买并尽快送货上门。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000361_xP6bnA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想知道收货的时候会有快递员打电话通知吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:货物送达时，快递员会提前打电话通知您，您可以根据自己的需求决定收货时间和地点。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000146_8WDPAa",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我购买了一把激光红外线弹弓，但是没有配套的组合及使用说明书和橡胶带。请问如何正确使用？我的电话号码是0928123456，姓名是王小明。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'使用方式','goods':'弹弓','style':'激光红外线','name':'王小明','phone':'0928123456'}:您好，非常抱歉您收到的弹弓没有配套的组合及使用说明书和橡胶带。我会为您提供使用参考。您可以点击此处查看示范视频，并了解正确的使用方式。如果您有任何其他问题，请随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000384_GpA94b",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我已经等了好久了，退货什么时候能来取？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您久等了，我们会尽快安排物流人员上门取件。请问您的订单编号是多少呢？"
+            },
+            {
+                "from": "human",
+                "value": "我的订单编号是TWN123456789"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常感谢您提供订单编号。我们已经记录下来，并会加急处理您的退货请求。请您耐心等待，我们会尽快与您联系并上门取件。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000078_3Djfsu",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下我的退货物流信息"
+            },
+            {
+                "from": "assistant",
+                "value": "非常抱歉给您带来了不便。请问您能提供您的姓名和电话号码吗？我们将帮您查询退货物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "我叫陈小美，电话号码是0987123456"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您提供的信息。我将为您查询退货物流，请稍等片刻。{'name':'陈小美', 'phone':'0987123456'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001563_abc123",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想问一下，这个床单的尺寸大小是否可以退换货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'床单'}:是的，床单的尺寸大小不合适可以退换货。"
+            },
+            {
+                "from": "human",
+                "value": "明白了，谢谢您的回答！"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，如果还有其他问题，欢迎随时咨询。祝您生活愉快！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000349_dgsw42C",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问是哪家快递公司负责送货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:您的商品将会由台湾顺丰速运为您完成配送喔"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000270_sbdcjS",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问一下"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，请问有什么需要帮助的吗？"
+            },
+            {
+                "from": "human",
+                "value": "我有定手表"
+            },
+            {
+                "from": "assistant",
+                "value": "嗯，我们会尽快为您送达喔{'goods':'手表'}"
+            },
+            {
+                "from": "human",
+                "value": "有寄出吗"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名电话我们这边帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "一黑一红电话是0908691328赖盛炜"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。{'phone':'0908691328','name':'赖盛炜','color':['红色','黑色'],'count':'2'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000382_6hrURM",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "王小明，电话0912345678，请问我购买的商品什么时候可以收到？"
+            },
+            {
+                "from": "assistant",
+                "value": "我已经收到了您的信息，请问您有什么需要帮助的吗？{'name':'王小明','phone':'0912345678'}"
+            },
+            {
+                "from": "human",
+                "value": "我想查询一下我的订单的物流信息。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流','goods':'订单'}:您好，具体的时间是要看货运的，我们的快递员在到达前会通话电话联系您约时间，非常抱歉，我们会帮您催促，尽快给您处理喔！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000181_FVlExS",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请查询我的订单，我的电话号码是0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "{'phone':'0912345678','intent':'订单信息'}:已收到您的订单查询请求，请稍等片刻，我会为您查询相关信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000251_h5msMB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我该如何查看收货方式？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}您好！根据我们的流程，当您下单后，我们会通过短信通知您的电话号码，告知您的收货方式以及预计的送达时间。如果您有任何疑问，可以随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000407_M2IEyQ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "报告:从2月16日至今尚未来取回退货！请处理好吗？谢谢！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请问您的姓名电话我们这边帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "不好意思！我的退货牙套至今贵公司尚未来取回喔！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流','goods':'牙套'}:请问您的姓名电话我们这边帮您查询。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003673_0NycnA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想问一下发货时间"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，由于这个商品是热销产品，所以发货时间可能会稍有延迟。一般来说，发货时间约为1周左右。我们会尽快为您安排发货，请您耐心等待。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001532_ibr9L6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想问一下手工黑芝麻丸一瓶有多少粒"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'黑芝麻丸','style':'手工'}:您好，手工黑芝麻丸一瓶的粒数没有固定的数量，一般约为9粒左右。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000358_tvFGxG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我要申请退货退款"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'退货退款'}:我们会为您安排上门取货，并通过汇款的方式为您退款。请您提供以下信息：订单编号、购买商品的款式和数量，以及您的联系电话和姓名。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003726_aBcDeF",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "请问有什么可以帮到您的？"
+            },
+            {
+                "from": "human",
+                "value": "我想了解一下这款手机的配置和价格"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:非常抱歉，我需要更多的信息才能帮您查询，请提供该手机的型号或者商品链接，谢谢。"
+            },
+            {
+                "from": "human",
+                "value": "这款手机是iPhone 12 Pro Max"
+            },
+            {
+                "from": "assistant",
+                "value": "{'goods':'手机','intent':'{'goods':'手机'}'}:感谢您提供的信息，请稍等片刻，我将为您查询iPhone 12 Pro Max的配置和价格。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000161_sN02tg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下我的订单"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'订单信息'}:非常感谢您的反馈，请您提供一下订单相关的信息，比如订单编号，电话号码等，以便我为您查询订单信息。"
+            },
+            {
+                "from": "human",
+                "value": "我要查询订单号为7532428935的订单"
+            },
+            {
+                "from": "assistant",
+                "value": "{'code':'7532428935','intent':'订单信息'}:好的，我已收到您的订单号码。请您稍等片刻，我将为您查询订单信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000166_JdGQcA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好，我购买的便携式封口机不好用，我想退货退款。请问我应该找谁处理？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'退货退款','goods':'封口机','style':'便携式'}:非常抱歉听到您遇到的问题。请问您的姓名和电话号码，我将帮您查询并处理退货退款事宜。"
+            },
+            {
+                "from": "human",
+                "value": "我叫林小美，电话号码是0923456789。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，林小美先生/小姐，我会尽快为您处理退货退款事宜，请您稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000270_sbdcjS",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问一下"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，请问有什么需要帮助的吗？"
+            },
+            {
+                "from": "human",
+                "value": "我想查询一下我的包裹"
+            },
+            {
+                "from": "assistant",
+                "value": "嗯，我可以帮您查询，请问您的姓名和电话是什么？"
+            },
+            {
+                "from": "human",
+                "value": "我的名字是林小美，电话是0987654321"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我已经记录下您的信息。请稍等片刻，我会为您查询物流信息。{'phone': '0987654321', 'name': '林小美'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000086_P0BkJj",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问货物是如何送达的？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:货物会通过快递送达到您提供的地址。配送员会提前联系您，您可以根据自己的需求选择合适的收货时间和地点。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，请问还有其他问题吗？"
+            },
+            {
+                "from": "human",
+                "value": "没有了，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，祝您生活愉快！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000086_P0BkJj",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问货物是如何送到的？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:货物会通过快递送到您提供的地址，送达时会有快递员电话通知您，请注意接听电话并确定收货时间和地点。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，请问还有其他问题吗？"
+            },
+            {
+                "from": "human",
+                "value": "没有了，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，祝您生活愉快！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000151_w9Axk5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我退货的物品还没有收到退款，可以帮我查询一下吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请告诉我您的姓名和电话号码，我会帮您查询退货情况。"
+            },
+            {
+                "from": "human",
+                "value": "李小明，电话是0932-123456。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我会为您查询退货情况，请稍等片刻。{'phone':'0932-123456','name':'李小明'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000312_mgDy0B",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我最近在网上看到了一款很好看的衣服，想问一下你们有没有这款衣服？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:非常抱歉，我是客服业务系统专家，无法直接提供商品信息。您可以在我们的网站上搜索该款衣服，或向我们的客服团队咨询。他们会为您提供更详细的帮助。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000290_DzBSu7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想取消已购订单"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'已购取消订单'}:非常抱歉给您带来不便。请问您的姓名和电话号码，我会帮您查询订单并取消。"
+            },
+            {
+                "from": "human",
+                "value": "我是陈小明，我的电话号码是0978123456"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，陈小明先生，感谢您提供的电话号码。我将为您查询订单并进行取消操作。稍后会有相关人员与您联系，请您耐心等待。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000210_YdXrQB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问货物到达时会有电话通知吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "是的，货物到达时会有电话通知，您可以决定收货时间和地点。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢！"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000122_zLRB5V",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "仍未来收退货，请再催促请查一下是否有登记退货？已经太久了"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请问您的姓名电话我们这边帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "抱歉！再没有任何进度，将备齐反应过程的有关资料向有关消费的权责单位申诉而不再等待了"
+            },
+            {
+                "from": "assistant",
+                "value": "抱歉，请问您的姓名电话我们这边帮您查询喔。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000077_y2IdsB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请告诉我物流公司的联系电话，我想自己去取货。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:物流公司会在商品送达后与您联系，请您耐心等待。"
+            },
+            {
+                "from": "human",
+                "value": "我不想一直等，也不想听到尽快处理这样的回答。如果这周还没有收到商品，我会在社交媒体上提及您的名字和事件，并向消费者协会投诉。等待这么久真的很不合理！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:我会帮您催促物流，尽快处理您的订单。"
+            },
+            {
+                "from": "human",
+                "value": "您又在敷衍我了！老掉重谈。没关系，我会采取上述行动的，以免其他人受到影响！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常感谢您的理解，我会尽力帮您催促物流处理。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000270_U1AeQY",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的手表发货了吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流','goods':'手表'}:请问您的姓名和电话号码，我将为您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我叫陈小明，电话是0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息。我将为您查询，请稍等片刻。{'phone':'0912345678','name':'陈小明','count':'1','goods':'手表'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003673_0NycnA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想问一下发货时间"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好，根据我们的物流信息，通常发货后大约需要1周左右的时间才能送达。由于该商品是热销产品，可能会有一些延迟。我们会尽快为您送达，请您耐心等待。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001552_n8KbtM",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想询问一下你们有没有口罩"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'口罩'}:是的，我们有口罩的，可以提供您的姓名、电话、收货地址以及您需要的数量，我可以帮您下单并优先发货。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000151_w9AxkA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我一直没有收到处理结果，怎么办？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:我已经在帮您催促了。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000121_4tRw9A",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我可以选择自提吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:当然可以！您可以选择自提，我们的商品支持到店取货的服务。您可以在下单时选择自提，并在收到取货通知后前往指定的自提点取货。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000193_Jz0nIA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我等了好久了，怎么还没收到货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您等待这么久。我会尽快催促送货，确保您能尽快收到商品。请您耐心等待，谢谢。"
+            },
+            {
+                "from": "human",
+                "value": "好吧，但是我等不及了，我要取消订单。"
+            },
+            {
+                "from": "assistant",
+                "value": "很抱歉，您的商品已经出货了，无法取消送货。但是您可以收到货后联系我，我会帮您处理退货事宜。非常抱歉给您带来不便。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000320_I7cduM",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我购买的商品有问题，我想要取消订单。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'已购取消订单'}:请问您的姓名电话我帮您查询喔。"
+            },
+            {
+                "from": "human",
+                "value": "王小明，13812345678"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。{'name':'王小明','phone':'13812345678'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001525_oCjgXI",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问，我想知道收货的方式是怎样的？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:您好，我们的收货方式包括送货上门和超商取货两种方式。您可以选择方便的方式进行配送。"
+            },
+            {
+                "from": "human",
+                "value": "好的，我想选择超商取货的方式。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，请告诉我您的姓名和电话号码，以便我们安排取货事宜。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003615_EekSy5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好"
+            },
+            {
+                "from": "assistant",
+                "value": "你好，请问有什么问题需要咨询呢？"
+            },
+            {
+                "from": "human",
+                "value": "请问这款商品在哪里可以购买到？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:非常抱歉，我需要您提供一下您想购买的商品的具体信息，例如商品名称、型号或者图片或网页链接，这样我才能帮您查询到相关的购买渠道。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000376_S4DjUf",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好，我想了解一下这套房子的具体情况。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:这套房子位于基隆市安乐区麦金路，是橘郡树海高楼层的三房户型，总面积为34坪。建筑外观为方块砖，邻近的学校有市立建德国小、市立建德国中和市立安乐高中。此房子的竣工日期是1997年7月18日，位于12楼。交通便捷，附近有长庚医院公车站牌。如果您对此房子还有其他疑问，可以告诉我哦。"
+            },
+            {
+                "from": "human",
+                "value": "请问这套房子的售价是多少呢？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:这套房子的委托总价为980万。如果您对价格或其他方面有进一步的问题，可以继续咨询我哦。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000290_DzBSu7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想取消我已购的订单"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'已购取消订单'}:请问您的姓名和电话号码，我帮您查询取消订单的相关信息。"
+            },
+            {
+                "from": "human",
+                "value": "我叫王小明，电话号码是0978123456"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我会为您查询订单取消的进度，请稍等片刻。{'name':'王小明', 'phone':'0978123456'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000301_bVAc6s",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想了解一下你们平台的商品种类和价格。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:我们平台有各种不同的商品供您选择，包括服装、电子产品、家居用品等。具体的价格取决于商品的种类和品牌。请问您有兴趣购买哪个类别的商品呢？"
+            },
+            {
+                "from": "human",
+                "value": "我对服装比较感兴趣，你们有什么品牌的服装？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:我们平台有多个品牌的服装供您选择，包括国际知名品牌和本地设计师品牌。您有什么特定的品牌偏好吗？"
+            },
+            {
+                "from": "human",
+                "value": "我对本地设计师品牌比较感兴趣，你们有哪些设计师的服装？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:我们平台合作的本地设计师包括A设计师、B设计师和C设计师等。每位设计师都有独特的风格和作品。您可以在我们的网站上浏览并选择您喜欢的款式和设计师。"
+            },
+            {
+                "from": "human",
+                "value": "好的，我会去看看的。谢谢你的帮助！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}:不客气！如果您在浏览过程中有任何问题或需要进一步的帮助，请随时告诉我。祝您购物愉快！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000116_jYTMSb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我要退货的东西到现在都还没来收。也没有看到退款可以处理一下吗，两个月过去了，请尽快处理。谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请问您的姓名电话我们这边帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "周国钦，0921190100"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。{'phone':'0921190100','name':'周国钦'}"
+            },
+            {
+                "from": "human",
+                "value": "请尽快，谢谢"
+            },
+            {
+                "from": "assistant",
+                "value": "好的。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000189_xaPOb6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我刚刚购买了一件T恤，请问订单是否成功？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'订单信息','goods':'T恤'}:请告诉我您的姓名和电话号码，我将为您查询订单信息。"
+            },
+            {
+                "from": "human",
+                "value": "我叫王小明，电话是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我已收到您的电话号码。请稍等片刻，我将为您查询订单信息。{'phone':'0912345678'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000196_N3OnYm",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我等了好久了，退货退款到底什么时候能处理好？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您等待这么久，我们已经在加紧处理了，请再稍等片刻。"
+            },
+            {
+                "from": "human",
+                "value": "我已经等了好几天了，还要再等多久？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来了困扰，我们会尽快为您处理好退货退款事宜，请您耐心等待。"
+            },
+            {
+                "from": "human",
+                "value": "我真的等得不耐烦了，这种服务态度太差了！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您感到不满意，我们会加强内部沟通，尽快为您解决问题。"
+            },
+            {
+                "from": "human",
+                "value": "我已经忍耐了很久了，还要等多久？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您等待这么长时间，我们会加快处理速度，尽快为您办理退货退款。"
+            },
+            {
+                "from": "human",
+                "value": "这样的服务态度真的很差！你们是不是故意拖延？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来了不愉快的体验，我们会认真反思并改善服务品质，尽快解决您的问题。"
+            },
+            {
+                "from": "human",
+                "value": "你们真的是最差的电商平台！我要投诉你们！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您感到如此失望，我们会重视您的投诉并积极采取措施改善，同时尽快处理您的退货退款事宜。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000195_I0gwCP",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我退货退款的流程是怎样的？"
+            },
+            {
+                "from": "assistant",
+                "value": "退货退款的流程如下：1.请您提供退货的姓名和电话号码。2.我们将为您查询订单信息。3.确认订单信息后，我们将安排退货取件。4.收到退货后，我们将进行退款操作。请问您的姓名和电话号码是什么？"
+            },
+            {
+                "from": "human",
+                "value": "我叫林小姐，我的电话号码是0928765432。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的信息，林小姐。我会为您查询退货退款的相关信息，请稍等片刻。{'phone':'0928765432','name':'林小姐','intent':'退货退款'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000084_8KQGkA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的包裹什么时候能送到？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名和电话号码，我将为您查询。"
+            },
+            {
+                "from": "human",
+                "value": "王小明0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。请稍等片刻，我将为您查询。{'phone':'0912345678','name':'王小明'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000379_aWyRYA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，有什么我可以帮您的吗？"
+            },
+            {
+                "from": "human",
+                "value": "我想查询一下我的退货物流信息"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，请告诉我您的姓名和电话号码，我将为您查询。"
+            },
+            {
+                "from": "human",
+                "value": "李美心0987123456"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我将为您查询，请稍等片刻。{'name':'李美心','phone':'0987123456'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000143_DPH9oV",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我在上个月购买了一个商品，但是收到后发现有质量问题，我想要退货退款。"
+            },
+            {
+                "from": "assistant",
+                "value": "请提供一下您的姓名和电话号码，我将为您查询并处理退货退款申请。"
+            },
+            {
+                "from": "human",
+                "value": "我叫陈美玲，电话号码是0987123456。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息。我会尽快为您查询退货退款申请的进度，请稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000196_I0gwCB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你们的服务太差了！我等了好久都没有收到退款！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来不便，我会尽快为您处理退款事宜。为了更好地帮助您，请告诉我您的电话号码，我将核实您的订单并加快处理速度。"
+            },
+            {
+                "from": "human",
+                "value": "我的电话号码是0912345678。请尽快处理！"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:已经收到您的电话号码了，我会立即为您查询并加快退款进度。请您耐心等待，退款将尽快处理完成。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000270_sbdcjS",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问一下"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，请问有什么需要帮助的吗？"
+            },
+            {
+                "from": "human",
+                "value": "我想查询一下我的订单发货情况"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，请告诉我您的姓名和电话号码"
+            },
+            {
+                "from": "human",
+                "value": "我叫陈小芳，电话是0987654321"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我会为您查询，请稍等片刻"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001566_5yI860",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想了解一下毛笔字帖和钢笔字帖的价格和款式。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':['毛笔字帖','钢笔字帖'],'style':'经文','scene':'写字'}:我们有多种款式的毛笔字帖和钢笔字帖可供选择。您可以在我们的网站上查看并订购。目前正是活动期间，价格也比较优惠哦。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001540_Y5V79f",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问这款牙套适合哪种牙齿情况？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'牙套'}:这款牙套适用于各种牙齿情况，包括牙齿不齐、牙齿缺失等。您可以提供您的牙齿情况，我可以给您更具体的建议。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000226_cFx0Pv",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问订购完成后大约几天后会到"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:您好,订购后4-7天左右送达喔。"
+            },
+            {
+                "from": "human",
+                "value": "可以10点半过后送吗"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:快递员在派送前会提前电话联络您的，您也可以和快递员在电话中约定到达时间和收件地点的喔"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1003765_a5SbMT",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查一下我的订单发货情况"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}请问您的姓名和电话号码，我将为您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我是陈小姐，我的电话号码是0905123456"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我将为您查询，请稍等片刻。{'phone': '0905123456', 'name': '陈小姐'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000145_vF1dGA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单什么时候能送到？已经等了好几个礼拜了。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来不便，我们会帮您催促物流尽快处理，确保订单能尽快送达。请您再耐心等待一下。"
+            },
+            {
+                "from": "human",
+                "value": "我等了这么久了，还是没有消息。如果再拖延下去，我会报警说诈骗。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来困扰，我们已经加急催促物流处理了，会尽快为您送达订单。请您再耐心等待一下。"
+            },
+            {
+                "from": "human",
+                "value": "已经等了三个月了，为什么还没有处理？这根本不是尽快处理的表现，我觉得你们在拖延时间，说谎。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您造成了困扰和不满，我们已经再次催促物流处理了，希望您能再做一些耐心等待。"
+            },
+            {
+                "from": "human",
+                "value": "我订的东西马上就送来了，结果收到的商品有问题，然后你们就不理了。我会向消费者权益保护协会投诉的。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来了不愉快的购物体验，我们会再次催促物流处理，并确保问题得到解决。请您耐心等待一下，我们会尽快解决您的问题。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000302_kjQd8r",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我最近在学习编程，有什么好的学习资源推荐吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent': '闲聊'}:当然！编程是一个很有趣且有用的技能。您可以尝试一些在线学习平台，如Codecademy、Coursera和Udemy，它们提供了广泛的编程课程。另外，您还可以参考一些编程书籍，如《Python编程从入门到实践》和《JavaScript高级程序设计》。希望这些资源能帮助到您！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000193_Jz0nIA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我等了好久都没有收到货物，能催促一下吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您等待这么久。我会立即催促物流部门尽快送达您的货物。"
+            },
+            {
+                "from": "human",
+                "value": "好的，麻烦尽快帮我催促一下。"
+            },
+            {
+                "from": "assistant",
+                "value": "不用担心，我已经记录下来了。一旦有最新的送货信息，我会立即通知您的。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000150_BERT8V",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我的订单还没收到"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名和电话号码，我将帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我是王小明，电话号码是0952123456"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息。我将为您查询，请稍等片刻。{'phone':'0952123456','name':'王小明'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000078_k3Jfdk",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下退货的物流信息。"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您的姓名和电话号码，我将为您查询退货物流。"
+            },
+            {
+                "from": "human",
+                "value": "我的姓名是张三，电话号码是0987654321。"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我已收到您的信息。请稍等片刻，我会为您查询退货物流信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000143_DPH9oV",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我希望能够退货退款，我购买的商品有质量问题。"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您的姓名和电话是多少，我帮您查询退货退款信息。"
+            },
+            {
+                "from": "human",
+                "value": "我叫王小明，电话是0935123456。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的姓名和电话信息。我会尽快为您查询退货退款情况，请稍等片刻。{'name':'王小明','phone':'0935123456'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000328_Rf6P1M",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我还没有收到我的刮胡刀，请问发货进度如何？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流','goods':'刮胡刀'}:请问您的姓名和电话号码，我将帮您查询发货进度。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000383_8clSuA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我已经等了很久了，什么时候能收退货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉让您久等了，我这边已经帮您催促了，会尽快为您上门取件的，请您耐心等待喔。"
+            },
+            {
+                "from": "human",
+                "value": "好的，我会耐心等待的。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常感谢您的耐心等待，我们会尽快为您解决此事。如果有任何其他问题，请随时告诉我。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000368_GPF2iA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "送货前致电"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式'}:货物到达是会有电话通知的您可以决定收货时间和地点的。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000078_y2Idsj",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想查询一下我的退货物流信息。"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您的姓名和电话号码，我将帮您查询退货物流。"
+            },
+            {
+                "from": "human",
+                "value": "我是王小明，电话号码是0987654321。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我将为您查询退货物流，请稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000204_tKYGNZ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想查一下我的订单发货情况"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您的惠顾！请问您购买的是什么商品呢？"
+            },
+            {
+                "from": "human",
+                "value": "我购买的是一台电视机"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，请告诉我您的姓名和电话号码，我将为您查询订单发货情况。"
+            },
+            {
+                "from": "human",
+                "value": "我叫陈宇轩，电话号码是0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的姓名和电话号码信息。我将为您查询订单发货情况，请稍等片刻。{'phone':'0912345678','name':'陈宇轩'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000357_tvFGx1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，有什么可以帮助您的吗？"
+            },
+            {
+                "from": "human",
+                "value": "我想查询一下我的发货物流信息"
+            },
+            {
+                "from": "assistant",
+                "value": "当时下单时您留下的电话号码是多少呢？我会帮您查询发货物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "我留下的电话号码是0958123456"
+            },
+            {
+                "from": "assistant",
+                "value": "好的，我已经收到您的电话信息。请稍等，我会为您查询发货物流信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000196_J9GfY7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我想退货退款。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'退货退款','goods':'手机','style':'iPhone 12'}:请问您的姓名电话我们这边帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我要把iPhone 12退掉，退款到我的账户上。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'退货退款','money':'6999'}:请问您的姓名电话，我这边先帮您查询一下您的订单喔。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001529_E3IDcT",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问你们平台有什么促销活动吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'闲聊'}我们平台有一些促销活动，你可以前往我们的官网或者APP查看最新的优惠信息。另外，如果你有任何问题或者需要帮助，我可以随时为你提供支持。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000318_VjlRwo",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想取消已经下单的透明防水胶"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'已购取消订单'}:请问您的姓名和电话号码，我帮您查询喔。"
+            },
+            {
+                "from": "human",
+                "value": "我的名字是陈小明，电话号码是0925112233。谢谢。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息，我已收到您的姓名和电话号码。我将为您查询，请稍后。{'name':'陈小明','phone':'0925112233'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000308_ENgcte",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想退货，请问应该怎么操作？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'退货退款'}:请问您的姓名和电话号码，我们这边会为您查询相关订单信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000176_NQkgax",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "3台调理机2/23已通知退件，今天已是3/11，还没来取件，请问何时来取退件？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流','goods':'调理机','count':'3台'}:请问您的姓名电话我们这边帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "0955-606-709陈碧芬"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。{'phone':'0955-606-709','name':'陈碧芬'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001533_vaIsoD",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问能取消这个订单吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'已购取消订单','goods':'眼药水'}:请问您的姓名电话我帮您查询喔。"
+            },
+            {
+                "from": "human",
+                "value": "我是张三，电话号码是123456789。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'已购取消订单','goods':'眼药水','name':'张三','phone':'123456789'}:好的，我会帮您取消订单，请稍等片刻。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000344_fiJWeA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问商品什么时候可以发货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}您好，一般我们会在确认订单后的1-2个工作日内发货，然后会根据您所在地区的运输时间来确定具体的到达时间。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢您的回答。"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，如果还有其他问题，请随时告诉我。"
+            },
+            {
+                "from": "human",
+                "value": "没有了，谢谢。"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，祝您购物愉快！"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000351_sWa3mB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单什么时候能够发货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来的不便。我们已经在催促物流部门了，会尽快为您安排发货。请您耐心等待，我们会尽快处理您的订单。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000167_Qtbxgh",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想要退货退款，请问我应该怎么操作？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'退货退款'}:请问您的姓名和电话号码，我们这边帮您查询。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000085_W7TuyX",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下退货物流的情况"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请问您的姓名和电话号码，我会帮您查询退货物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "我的姓名是王小明，电话号码是0912345678"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您提供的信息，请稍等片刻，我将为您查询退货物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "好的，麻烦您帮我尽快查询一下"
+            },
+            {
+                "from": "assistant",
+                "value": "已经为您查询到退货物流信息。您的退货物流编号是E123456789，物流公司是黑猫快递，预计将在3个工作日内送达。如果有进一步的问题，您可以随时与我们联系。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000368_GPF2i5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我买的太阳能灯，一直没收到货，想查询一下物流情况。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流','goods':'太阳能灯'}:请问您的姓名和电话号码，以便我们为您查询。"
+            },
+            {
+                "from": "human",
+                "value": "林志玲，电话号码是0928123456。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息。我将为您查询，请稍等片刻。{'phone':'0928123456','name':'林志玲'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000127_jFnL63",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好，我想查询退货物流信息。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:请问您的姓名和电话号码，我将帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "请问我需要提供哪些信息呢？"
+            },
+            {
+                "from": "assistant",
+                "value": "非常抱歉，我需要您的姓名和电话号码才能为您查询退货物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "我是李美美，我的电话号码是0905123456。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您的信息，我已收到您的电话号码和姓名。请稍等片刻，我将为您查询退货物流信息。{'phone':'0905123456','name':'李美美'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000251_h5msMC",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单什么时候能发货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'订单信息'}:请提供您的姓名和电话号码，我将帮您查询订单状态。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000343_fiJWec",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好"
+            },
+            {
+                "from": "assistant",
+                "value": "请问您需要什么帮助呢？"
+            },
+            {
+                "from": "human",
+                "value": "请问你们有没有卖防水墙纸？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'防水墙纸'}:您好，是的，我们有防水墙纸，请问您有特定的款式或颜色要求吗？"
+            },
+            {
+                "from": "human",
+                "value": "我想要一卷蓝色的防水墙纸"
+            },
+            {
+                "from": "assistant",
+                "value": "好的喔。{'goods':'防水墙纸','style':'蓝色'}"
+            },
+            {
+                "from": "human",
+                "value": "请问这款防水墙纸的价格是多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'防水墙纸','style':'蓝色','price':''}:这款蓝色的防水墙纸价格是180元/卷。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000289_UjZT47",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，我是王小明。我想问一下关于收货方式的事情。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent': '咨询收货方式'}:您可以选择将商品送到7-11便利店进行取货。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001554_PL7fRaBF",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "发货时间是多久？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'发货时间'}:一般发货后的三到七天内可以到达您的地址。如果有特殊情况，物流公司会提前与您联系。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000286_xo1tmc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想问一下，我刚刚买了一双眼镜，可以选择商超自取吗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'咨询收货方式','goods':'眼镜'}: 当然可以，我们支持商超自取的，您可以选择方便的商超进行取货。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000221_tuXzHG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单什么时候能送到？"
+            },
+            {
+                "from": "assistant",
+                "value": "您好，根据我们的物流信息，您的订单预计需要3-7个工作日才能送达。请您耐心等待，我们会尽快为您发货并提供具体的物流信息。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000104_OXZoMB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "我想查询一下特种兵LED手电筒的价格和购买方式"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品'}:特种兵LED手电筒的价格是450元，目前正好有促销活动，买一送一，共2支。如果您有兴趣，可以直接下单购买，我们会尽快为您发货。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001532_ibr9L6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问手工黑芝麻丸一瓶有多少颗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'黑芝麻丸','style':'手工'}:您好，手工黑芝麻丸是按照收购制作的，所以没有固定的颗数。一般来说，一瓶黑芝麻丸大约有9颗左右。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000256_0rTLgO",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "已经等了好几天了，还没有收到我的订单，请尽快处理。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉，我们会尽快处理您的订单，给您一个准确的答复。"
+            },
+            {
+                "from": "human",
+                "value": "希望你们能加快处理速度，我很着急。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来不便，请您耐心等待，我们会尽快为您处理。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000167_JdGQcB",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "您好，我要退这个便携式封口机，因为它质量有问题。请问我该找谁处理退货退款？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'退货退款','goods':'封口机','style':'便携式'}:非常抱歉给您带来了不便。请问您的姓名和电话号码，我们将帮您查询退货退款的具体流程。"
+            },
+            {
+                "from": "human",
+                "value": "我叫陈小芳，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "非常感谢您提供的信息，陈小芳先生/女士，请您稍等片刻，我将为您查询退货退款的具体流程。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001564_UQXvzGJ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问下单后多久可以收到货？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'goods':'衣服','intent':'发货时间'}:我们的商品通常在下单后的3-5个工作日内发货，然后需要再加上运输时间，根据您所在的地区不同，可能需要额外的1-2个工作日。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000265_FPX9fu",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "还没收到退货物流信息，请问还需要等多久？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:非常抱歉给您带来不便。请问您下单时填写的电话是多少呢？我将为您查询退货物流信息。"
+            },
+            {
+                "from": "human",
+                "value": "电话号码是0987654321。请尽快查询，谢谢。"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询退货物流'}:感谢您的电话信息。我将为您查询，请稍后。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000150_BERT8V",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的包裹什么时候能送到？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询发货物流'}:请问您的姓名和电话号码，我将帮您查询。"
+            },
+            {
+                "from": "human",
+                "value": "我是王小明，电话号码是0912345678。"
+            },
+            {
+                "from": "assistant",
+                "value": "感谢您提供的信息。我将为您查询，请稍等片刻。{'phone':'0912345678','name':'王小明'}"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1000110_Xi9VDA",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "请问我的订单什么时候能送到？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'催促安抚'}:非常抱歉给您带来不便，我会帮您催一下物流进度，请您稍等片刻。"
+            },
+            {
+                "from": "human",
+                "value": "好的，谢谢！"
+            },
+            {
+                "from": "assistant",
+                "value": "不客气，我们会尽快为您处理。"
+            }
+        ]
+    },
+    {
+        "id": "giikin_1001532_ibr9L6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "你好，请问手工黑芝麻丸一瓶有多少颗？"
+            },
+            {
+                "from": "assistant",
+                "value": "{'intent':'查询商品','goods':'黑芝麻丸','style':'手工'}:您好，手工黑芝麻丸是按照收购制作的，所以没有固定的颗数。一般来说，一瓶黑芝麻丸大约有9颗左右。"
+            }
+        ]
+    }
+]
