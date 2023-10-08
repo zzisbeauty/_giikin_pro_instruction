@@ -1,7 +1,9 @@
+# original correct enhance data trans 2
+
 import json, jsonlines
 
 # todo  check  enhance  data
-with open('check.jsonl', 'r', encoding='utf-8') as f:
+with open('enhanceData.jsonl', 'r', encoding='utf-8') as f:
     lines = f.readlines()
 
 parsers = []
@@ -31,6 +33,10 @@ for idx in range(len(parsers) - 1, -1, -1):
 
 # todo check human data
 pass
+
+# ====================================================================================================
+
+# 断点分隔符
 A = 1
 
 # ====================================================================================================
@@ -61,6 +67,3 @@ for i in final_parsers:
     i['dataset'] = 'giikin'
     with jsonlines.open(correct_enhance_data, mode='a') as writer:
         writer.write(i)
-
-a = 10
-# ====================================================================================================

@@ -1,0 +1,600 @@
+[
+  {
+    "id": "3594",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我最近有几笔订单，想问一下可以一次性送出吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "因为订购的日期不同所以会不同时间送达的"
+      },
+      {
+        "from": "human",
+        "value": "我知道了，谢谢"
+      },
+      {
+        "from": "assistant",
+        "value": "不客气，有其他问题可以随时问我喔"
+      }
+    ]
+  },
+  {
+    "id": "2516",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "最近天气不错，适合出去玩"
+      },
+      {
+        "from": "assistant",
+        "value": "是的，天气确实很好。您有什么旅行的计划吗？"
+      },
+      {
+        "from": "human",
+        "value": "我打算去台北玩一趟，有什么好推荐吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "台北是个美丽的城市，有很多值得游览的景点和美食。您可以去象山登高，欣赏整个城市的美景。另外，士林夜市也是台北的著名夜市之一，您可以品尝各种当地的美食。"
+      },
+      {
+        "from": "human",
+        "value": "好的，谢谢你的建议！"
+      },
+      {
+        "from": "assistant",
+        "value": "不客气，希望您在台北玩得愉快！如果还有其他问题，欢迎随时向我咨询。"
+      }
+    ]
+  },
+  {
+    "id": "458",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我想查询一下我的退货物流信息"
+      },
+      {
+        "from": "assistant",
+        "value": "请问您的姓名和电话号码，我将为您查询。"
+      },
+      {
+        "from": "human",
+        "value": "李美华 0912-345678"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您提供的信息，我将为您查询，请稍等片刻。"
+      }
+    ]
+  },
+  {
+    "id": "663",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我想问一下货物的送达时间"
+      },
+      {
+        "from": "assistant",
+        "value": "您好,订购后4-7天左右送达喔。"
+      },
+      {
+        "from": "human",
+        "value": "我需要了解具体的送达时间"
+      },
+      {
+        "from": "assistant",
+        "value": "请问您的姓名电话我帮您查询喔"
+      }
+    ]
+  },
+  {
+    "id": "1626",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请问我购买的商品什么时候能送到？"
+      },
+      {
+        "from": "assistant",
+        "value": "您好，一般订购后4-7天左右可以送达。"
+      },
+      {
+        "from": "human",
+        "value": "请问我成功下单了吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "您好，请问您下单时填写的电话号码是多少呢？我可以帮您查询订单信息。"
+      },
+      {
+        "from": "human",
+        "value": "0987654321"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您的反馈，我已收到您的信息。我将为您查询，请稍后。"
+      }
+    ]
+  },
+  {
+    "id": "5056",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我想查询一下退货的物流信息"
+      },
+      {
+        "from": "assistant",
+        "value": "请问您的姓名和电话号码，我将帮您查询。"
+      },
+      {
+        "from": "human",
+        "value": "我叫陈小芳，电话号码是0987654321"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您的反馈，我已收到您的信息。我将为您查询，请稍后。"
+      }
+    ]
+  },
+  {
+    "id": "565",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "您好"
+      },
+      {
+        "from": "assistant",
+        "value": "你好，请问您有什么问题需要咨询呢？"
+      },
+      {
+        "from": "human",
+        "value": "我想购买一件外套"
+      },
+      {
+        "from": "assistant",
+        "value": "如您需要可提供您的姓名、电话、收件地址和您要的数量，帮您订购喔，可优先出货派送"
+      }
+    ]
+  },
+  {
+    "id": "3416",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你好，我想买一款拇指外翻矫正带。"
+      },
+      {
+        "from": "assistant",
+        "value": "当然可以，为了更好地为您服务，请提供您的姓名、电话、收货地址以及您需要的数量。我们将为您订购并优先发货派送。"
+      }
+    ]
+  },
+  {
+    "id": "4345",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我想修改订单送货地址"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您的反馈，我已经收到您的新地址信息，请稍等。"
+      }
+    ]
+  },
+  {
+    "id": "3534",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你好，请问我该如何退货退款？"
+      },
+      {
+        "from": "assistant",
+        "value": "您好，请问您需要什么帮助呢？"
+      },
+      {
+        "from": "human",
+        "value": "我是惠婷，我的电话号码是0932726348。我购买的商品有质量问题，我想退货并退款。"
+      },
+      {
+        "from": "assistant",
+        "value": "好的，惠婷，请您稍等，我将帮您查询相关信息。"
+      }
+    ]
+  },
+  {
+    "id": "2242",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我需要修改订单，请帮我处理一下。"
+      },
+      {
+        "from": "assistant",
+        "value": "您好，麻烦您提供您下单时的电话或者订单号，这边帮您查询喔"
+      },
+      {
+        "from": "human",
+        "value": "我是王小明，订单编号是1001234567，我需要修改收货地址为台北市信义区光复南路100号。"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您的反馈，我已收到您的信息。我将为您查询，请稍后。"
+      }
+    ]
+  },
+  {
+    "id": "1500",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你们真的太慢了！我等了好久都没有收到我的订单！"
+      },
+      {
+        "from": "assistant",
+        "value": "非常抱歉给您带来了不便。请问您能提供一下您的电话号码吗？我将帮您查询一下订单状态。"
+      },
+      {
+        "from": "human",
+        "value": "我电话号码是0912345678。麻烦您尽快查一下！"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您的反馈，我已收到您的信息。我将为您查询，请稍后。"
+      },
+      {
+        "from": "human",
+        "value": "好的，请尽快给我回复！，希望明天能收到。谢谢您的帮助！"
+      },
+      {
+        "from": "assistant",
+        "value": "不客气！"
+      }
+    ]
+  },
+  {
+    "id": "369",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我最近在家休息，有什么好看的电影推荐吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "请问您需要什么帮助呢？如果有钟意的商品，您可以告诉我们您的姓名电话和收货地址我帮您下单的。"
+      }
+    ]
+  },
+  {
+    "id": "3835",
+    "conversations": [
+      {
+        "from": "human",
+        "value": ""
+      },
+      {
+        "from": "assistant",
+        "value": "您好，物流回收时是有电话通知的，我们也会帮您催促一下喔"
+      },
+      {
+        "from": "human",
+        "value": "谢谢"
+      },
+      {
+        "from": "assistant",
+        "value": "好的，我们会尽快处理您的退件申请。"
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "运输中是已经出货了吗"
+      },
+      {
+        "from": "assistant",
+        "value": "是的喔"
+      },
+      {
+        "from": "human",
+        "value": "那不就今天会到吗"
+      },
+      {
+        "from": "assistant",
+        "value": "不是的喔，运输是需要3-7天左右的喔,这边会帮您催促一下的喔"
+      }
+    ]
+  },
+  {
+    "id": "253",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你好，请问我要怎么在Tagomall的网页上找到这个锯子"
+      },
+      {
+        "from": "assistant",
+        "value": "麻煩發送一下您想咨詢的商品圖片或者網址喔"
+      },
+      {
+        "from": "human",
+        "value": "你好我后来有找到，已经下单啰！谢谢"
+      },
+      {
+        "from": "assistant",
+        "value": "好的，我们这边会尽快帮您发出的"
+      }
+    ]
+  },
+  {
+    "id": "4027",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我要取消已购订单"
+      },
+      {
+        "from": "assistant",
+        "value": "请问您的姓名和电话号码，我帮您查询。"
+      },
+      {
+        "from": "human",
+        "value": "陈小美，0908123456"
+      },
+      {
+        "from": "assistant",
+        "value": "非常感谢您提供的信息。我将为您查询，请稍等片刻。"
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请问你们货什么时候到"
+      },
+      {
+        "from": "assistant",
+        "value": "请问您的姓名电话我们这边帮您查询。"
+      },
+      {
+        "from": "human",
+        "value": "李云云0067097592"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您的反馈，我已收到您的电话信息。我将为您查询，请稍后。"
+      }
+    ]
+  },
+  {
+    "id": "2475",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请问我的订单什么时候发货？"
+      },
+      {
+        "from": "assistant",
+        "value": "请问您的姓名电话我们这边帮您查询。"
+      }
+    ]
+  },
+  {
+    "id": "4492",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我想查询一下我的退货物流信息。"
+      },
+      {
+        "from": "assistant",
+        "value": "请问您的姓名和电话号码？"
+      },
+      {
+        "from": "human",
+        "value": "我是陈小芳，电话号码是0987-654-321。"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您的信息，我将帮您查询退货物流，请稍等片刻。"
+      }
+    ]
+  },
+  {
+    "id": "1885",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我想取消我的订单"
+      },
+      {
+        "from": "assistant",
+        "value": "请问您的姓名和电话号码，我将帮您查询订单信息"
+      },
+      {
+        "from": "human",
+        "value": "我叫王小美，电话号码是0987654321"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您的反馈，我已收到您的信息。我将为您查询，请稍后。"
+      }
+    ]
+  },
+  {
+    "id": "1670",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我想取消购买"
+      },
+      {
+        "from": "assistant",
+        "value": "您好，请问您下单时填写的电话号码是多少呢？我将帮您查询订单信息。"
+      },
+      {
+        "from": "human",
+        "value": "0912345678"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您的反馈，我已收到您的信息。我将为您查询，请稍后。"
+      }
+    ]
+  },
+  {
+    "id": "3328",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请问我购买的商品什么时候能够到达？"
+      },
+      {
+        "from": "assistant",
+        "value": "根据我们的记录，您购买的商品预计在3-7个工作日内送达。"
+      }
+    ]
+  },
+  {
+    "id": "627",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请问我的退货物流信息是什么？"
+      },
+      {
+        "from": "assistant",
+        "value": "您好，麻烦您提供您下单时的电话或者订单号，这边帮您查询喔"
+      },
+      {
+        "from": "human",
+        "value": "我是张三，电话号码是0987654321。"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您的反馈，我已收到您的信息。我将为您查询，请稍后。"
+      }
+    ]
+  },
+  {
+    "id": "2707",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请问我的订单有没有发货？订单编号是987654321。"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您的反馈，我已收到您的信息。我将为您查询，请稍后。"
+      }
+    ]
+  },
+  {
+    "id": "2592",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你好，我最近有点烦恼，能聊聊天吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "当然可以，我很乐意聆听和帮助你解决问题。请告诉我你要聊什么。"
+      }
+    ]
+  },
+  {
+    "id": "3439",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我想查询一下我的订单物流信息"
+      },
+      {
+        "from": "assistant",
+        "value": "请问您的姓名和电话号码，我将帮您查询。"
+      },
+      {
+        "from": "human",
+        "value": "我是王小明，我的电话号码是0912345678"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您的提供的信息。我将为您查询，请稍等片刻。"
+      }
+    ]
+  },
+  {
+    "id": "3894",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我等了好久，什么时候能收到货？"
+      },
+      {
+        "from": "assistant",
+        "value": "非常抱歉让您等待这么久，我会尽快帮您催促快递员送货。请问您的电话号码是多少，以便于我与您联系？"
+      },
+      {
+        "from": "human",
+        "value": "我的电话号码是0913196262。"
+      },
+      {
+        "from": "assistant",
+        "value": "好的，我已经记录下您的电话号码。我会立即联系快递员并尽快为您送达。非常抱歉给您带来不便，感谢您的耐心等待！"
+      }
+    ]
+  },
+  {
+    "id": "3581",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我想查询一下退货物流信息"
+      },
+      {
+        "from": "assistant",
+        "value": "请问您的姓名电话我们这边帮您查询。"
+      },
+      {
+        "from": "human",
+        "value": "卢晓，0999123456"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您提供的电话与姓名信息。我将为您查询，请稍后。"
+      }
+    ]
+  },
+  {
+    "id": "1712",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请问我退货的进度如何？"
+      },
+      {
+        "from": "assistant",
+        "value": "非常抱歉给您带来了不便，请您提供一下您的订单编号，我将为您查询退货进度。"
+      },
+      {
+        "from": "human",
+        "value": "我的订单编号是202109280001。"
+      },
+      {
+        "from": "assistant",
+        "value": "感谢您的反馈，我已收到您的信息。我将为您查询，请稍后。"
+      }
+    ]
+  }
+]
