@@ -31,10 +31,14 @@
   然后将ly data转化为BL data:[all_traindata_base_ly_change2_belle.py](all_traindata_base_ly_change2_belle.py)
     - human data:[sdtconvdatahuman_1007.json](sdtconvdatahuman_1007.json)
     - enhance data(里面也有人工数据): [all_train_human_enhancedata_all_conv.batch.1.json](all_train_human_enhancedata_all_conv.batch.1.json)
-- 通过上述步骤（人工+enhance），共得到基于version-2的conv数据 for bl format data:
+- 添加了instruction数据到 BELLE conv 数据中：
+  - [transintentslotdata2belleinstructiondata.py](transintentslotdata2belleinstructiondata.py)
+  - [train_instdata.belle.batch.1.json](train_instdata.belle.batch.1.json)
+- 通过上述步骤（人工+enhance conv data + instruction data），共得到基于version-2的conv数据 for bl format data:
     - [all_train_human_enhancedata_all_belle.version.2.train.json](all_train_human_enhancedata_all_belle.version.2.train.json)
     - [all_train_human_enhancedata_all_belle.version.2.dev.json](all_train_human_enhancedata_all_belle.version.2.dev.json)
-- [x] ly format data：[all_train_human_enhancedata_all_ly.json](all_train_human_enhancedata_all_ly.json)
+- [x] 顺便存储一份 ly format data：[all_train_human_enhancedata_all_ly.json](all_train_human_enhancedata_all_ly.json) 以备 ly 使用；
+  另外需要说明的是，这个数据中没有包含 instruction 的数据，因为这个数据一开始就是BL的格式，没有BL format 转化为 LY format的脚本，所有就没存。
 
 ###### version-2-process-2：得到全新的for bl训练数据
 
