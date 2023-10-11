@@ -19,7 +19,7 @@ with open('sdtconvdatahuman_1007.json', 'r', encoding='utf-8') as f:
 
 lines = lines_human + lines
 
-# # todo save data for ly
+# # todo save data for LY
 # random.shuffle(lines)
 # with open('all_train_human_enhancedata_all_ly.json', 'w', encoding='utf-8') as f:
 #     json.dump(lines, f, indent=4, ensure_ascii=False)
@@ -45,7 +45,7 @@ for eachLine in lines:
 
     parsers2belle.append(allConvInfo)
 
-# 读取 BELLE 的 format data
+# todo 读取 BELLE 的 format instruction  data
 with open('train_instdata.belle.batch.1.json', 'r', encoding='utf-8') as f:
     belle_inst_data = json.load(f)
 
